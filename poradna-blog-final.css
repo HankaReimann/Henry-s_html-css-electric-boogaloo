@@ -1,0 +1,1032 @@
+/* screen - poradna-blog-final */
+
+.poradna-blog-final {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 5179px;
+  overflow-x: hidden;
+  width: 1728px;
+}
+
+.poradna-blog-final .overlap-group9 {
+  background-image: url(../img/vector-80.png);
+  background-size: 100% 100%;
+  height: 505px;
+  margin-left: 3.0px;
+  position: relative;
+  width: 1731px;
+}
+
+.poradna-blog-final .mask-group {
+  height: 505px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1731px;
+}
+
+.poradna-blog-final .overlap-group {
+  height: 146px;
+  left: 85px;
+  position: absolute;
+  top: 300px;
+  width: 270px;
+}
+
+.poradna-blog-final .vector-20 {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 270px;
+}
+
+.poradna-blog-final .heading {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 145.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.poradna-blog-final .vector-19 {
+  height: 14px;
+  left: 89px;
+  position: absolute;
+  top: 394px;
+  width: 186px;
+}
+
+.poradna-blog-final .menu {
+  background-color: var(--black-2);
+  display: flex;
+  height: 96px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.poradna-blog-final .logo {
+  height: 64.54px;
+  margin-left: 33px;
+  margin-top: 16px;
+  width: 91px;
+}
+
+.poradna-blog-final .frame-329 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  height: 40px;
+  margin-left: 163px;
+  margin-top: 28px;
+  position: relative;
+  width: 483px;
+}
+
+.poradna-blog-final .menu-button {
+  align-items: flex-start;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .secondary-button {
+  align-items: center;
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--white);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  margin-left: 334px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 272px;
+}
+
+.poradna-blog-final .icon-search {
+  height: 27px;
+  min-width: 27px;
+  position: relative;
+}
+
+.poradna-blog-final .text {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .primary-button-icon {
+  background-color: var(--white);
+  height: 48px;
+  margin-left: 37px;
+  margin-top: 23px;
+  position: relative;
+  width: 159px;
+}
+
+.poradna-blog-final .frame-328 {
+  align-items: center;
+  background-color: var(--dune);
+  display: flex;
+  gap: 12px;
+  height: 48px;
+  justify-content: center;
+  margin-left: 23px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 89px;
+}
+
+.poradna-blog-final .cz {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .icon-1 {
+  height: 7.95px;
+  min-width: 15.17px;
+  position: relative;
+}
+
+.poradna-blog-final .breadcrumb-nav-bar {
+  align-self: flex-start;
+  display: flex;
+  height: 23px;
+  margin-left: 104px;
+  margin-top: 88px;
+  width: 332px;
+}
+
+.poradna-blog-final .akar-iconsarrow-right {
+  height: 20px;
+  margin-left: 8px;
+  margin-top: 3px;
+  width: 20px;
+}
+
+.poradna-blog-final .poradna {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 8px;
+  text-align: center;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.poradna-blog-final .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 56px;
+  margin-left: 6.0px;
+  margin-top: 107px;
+  min-width: 1006px;
+}
+
+.poradna-blog-final .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--neon-carrot);
+  border-radius: 29px;
+  display: flex;
+  height: 51px;
+  min-width: 178px;
+  padding: 16px 31px;
+}
+
+.poradna-blog-final .ambasadoi-a-artists {
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.poradna-blog-final .overlap-group10 {
+  height: 51px;
+  margin-left: 32px;
+  position: relative;
+  width: 180px;
+}
+
+.poradna-blog-final .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--neon-carrot);
+  border-radius: 29px;
+  display: flex;
+  height: 51px;
+  left: 0;
+  min-width: 178px;
+  padding: 16px 53px;
+  position: absolute;
+  top: 0;
+}
+
+.poradna-blog-final .tutorily {
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.poradna-blog-final .material-symbolsarrow-back-ios {
+  height: 20px;
+  left: 125px;
+  position: absolute;
+  top: 16px;
+  width: 20px;
+}
+
+.poradna-blog-final .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--neon-carrot);
+  border-radius: 29px;
+  display: flex;
+  height: 51px;
+  margin-left: 23px;
+  min-width: 178px;
+  padding: 15px 26px;
+}
+
+.poradna-blog-final .ambasadoi-a-artists-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.poradna-blog-final .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--neon-carrot);
+  border-radius: 29px;
+  display: flex;
+  height: 51px;
+  margin-left: 32px;
+  min-width: 178px;
+  padding: 16px 71px;
+}
+
+.poradna-blog-final .place {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-width: 25px;
+  white-space: nowrap;
+}
+
+.poradna-blog-final .overlap-group5 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--neon-carrot);
+  border-radius: 29px;
+  display: flex;
+  height: 51px;
+  margin-left: 25px;
+  min-width: 178px;
+  padding: 16px 64px;
+}
+
+.poradna-blog-final .reviews {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-width: 32px;
+  white-space: nowrap;
+}
+
+.poradna-blog-final .overlap-group12 {
+  height: 1343px;
+  margin-left: 170.0px;
+  margin-top: 87px;
+  position: relative;
+  width: 1304px;
+}
+
+.poradna-blog-final .overlap-group8 {
+  height: 1343px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1304px;
+}
+
+.poradna-blog-final .frame-269 {
+  align-items: flex-start;
+  background-image: url(../img/frame-269.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 547px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 798px;
+}
+
+.poradna-blog-final .overlap-group6 {
+  align-items: flex-end;
+  background-color: #ee9c3387;
+  display: flex;
+  flex-direction: column;
+  min-height: 547px;
+  padding: 19.6px 0;
+  width: 798px;
+}
+
+.poradna-blog-final .h-lavn-stran-super-lnek {
+  letter-spacing: 0;
+  line-height: 60px;
+  margin-right: 37px;
+  margin-top: 223px;
+  min-width: 384px;
+  white-space: nowrap;
+}
+
+.poradna-blog-final .lorem-ipsum-dolor-si-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 31px;
+  min-height: 48px;
+  text-align: center;
+  width: 562px;
+}
+
+.poradna-blog-final .primary-button {
+  align-items: center;
+  background-color: var(--neon-carrot);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 64px;
+  justify-content: center;
+  margin-right: 37.74px;
+  margin-top: 82px;
+  padding: 8px 16px;
+  position: relative;
+  width: 181px;
+}
+
+.poradna-blog-final .text-1 {
+  color: var(--white);
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .rectangle-569 {
+  height: 728px;
+  left: 728px;
+  position: absolute;
+  top: 0;
+  width: 576px;
+}
+
+.poradna-blog-final .rectangle-571 {
+  background-color: #ee9c335c;
+  height: 547px;
+  left: 806px;
+  position: absolute;
+  top: 5px;
+  width: 418px;
+}
+
+.poradna-blog-final .video_play_buttonek {
+  height: 80px;
+  left: 967px;
+  position: absolute;
+  top: 225px;
+  width: 97px;
+}
+
+.poradna-blog-final .nechce-se-ti-st-mrkni-na-nae-videa {
+  left: 826px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  text-align: center;
+  top: 347px;
+}
+
+.poradna-blog-final .primary-button-1 {
+  background-color: var(--neon-carrot);
+  left: 966px;
+  position: absolute;
+  top: 483px;
+  width: fit-content;
+}
+
+.poradna-blog-final .text-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .frame-496 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 649px;
+  min-height: 648px;
+  position: absolute;
+  top: 695px;
+  width: 489px;
+}
+
+.poradna-blog-final .frame-27 {
+  background-image: url(../img/frame-270@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 277px;
+  width: 489px;
+}
+
+.poradna-blog-final .autor-11-2023-1 {
+  margin-right: -29px;
+  margin-top: 21px;
+}
+
+.poradna-blog-final .nadpis-lnku-1 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 21px;
+  margin-top: 4px;
+  min-height: 48px;
+}
+
+.poradna-blog-final .lorem-ipsum-dolor-si-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -17px;
+  margin-top: 26px;
+  min-height: 89px;
+  width: 475px;
+}
+
+.poradna-blog-final .primary-button-2 {
+  align-self: center;
+  background-color: var(--neon-carrot);
+  margin-right: 8.08px;
+  margin-top: 108px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .text-3 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .frame-497 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 15px;
+  min-height: 648px;
+  position: absolute;
+  top: 695px;
+  width: 489px;
+}
+
+.poradna-blog-final .autor-11-2023 {
+  height: 35px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: -39px;
+  margin-top: 25px;
+  width: 186px;
+}
+
+.poradna-blog-final .nadpis-lnku {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4px;
+  min-height: 48px;
+}
+
+.poradna-blog-final .lorem-ipsum-dolor-si {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 26px;
+  min-height: 89px;
+  width: 475px;
+}
+
+.poradna-blog-final .primary-button-3 {
+  align-self: center;
+  background-color: var(--neon-carrot);
+  margin-right: 77.21px;
+  margin-top: 108px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .text-4 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .frame-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 162px;
+  height: 687px;
+  margin-left: 36.0px;
+  margin-top: 155px;
+  min-width: 1140px;
+}
+
+.poradna-blog-final .frame-498 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 687px;
+  width: 489px;
+}
+
+.poradna-blog-final .primary-button-4 {
+  align-self: center;
+  background-color: var(--neon-carrot);
+  margin-right: 77.8px;
+  margin-top: 147px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .text-5 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .frame-499 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 676px;
+  width: 489px;
+}
+
+.poradna-blog-final .primary-button-5 {
+  align-self: center;
+  background-color: var(--neon-carrot);
+  margin-right: 24.08px;
+  margin-top: 136px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .text-6 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .frame-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 162px;
+  height: 704px;
+  margin-left: 37.0px;
+  margin-top: 116px;
+  min-width: 1141px;
+}
+
+.poradna-blog-final .frame-501 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 696px;
+  width: 489px;
+}
+
+.poradna-blog-final .primary-button-6 {
+  align-self: center;
+  background-color: var(--neon-carrot);
+  margin-right: 48.16px;
+  margin-top: 156px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .text-7 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .frame-500 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 704px;
+  width: 490px;
+}
+
+.poradna-blog-final .frame-275 {
+  background-image: url(../img/frame-270@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 277px;
+  margin-right: 1px;
+  width: 489px;
+}
+
+.poradna-blog-final .autor-11-2023-2 {
+  margin-right: -38px;
+  margin-top: 25px;
+}
+
+.poradna-blog-final .lorem-ipsum-dolor-si-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1px;
+  margin-top: 26px;
+  min-height: 89px;
+  width: 475px;
+}
+
+.poradna-blog-final .primary-button-7 {
+  align-self: center;
+  background-color: var(--neon-carrot);
+  margin-right: 24.13px;
+  margin-top: 164px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .text-8 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .overlap-group11 {
+  height: 1209px;
+  margin-top: 99px;
+  position: relative;
+  width: 1728px;
+}
+
+.poradna-blog-final .footer {
+  align-items: center;
+  background-color: transparent;
+  background-image: url(../img/vector-101.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
+  height: auto;
+  justify-content: flex-start;
+  left: 0;
+  min-height: 627px;
+  padding: 30.2px 0;
+  position: absolute;
+  top: 582px;
+  width: 1728px;
+}
+
+.poradna-blog-final .flex-row {
+  height: 176px;
+  margin-right: 100.0px;
+  margin-top: 295px;
+  min-width: 1020px;
+}
+
+.poradna-blog-final .group {
+  align-self: flex-end;
+  height: 157px;
+  margin-bottom: 0;
+  width: 51px;
+}
+
+.poradna-blog-final .frame-358 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 246px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .poradna-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .od-vs {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .frame-359 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 198px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .struny {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .lifestyle {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .gear {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .flex-col {
+  align-self: flex-end;
+  flex-direction: column;
+  gap: 57px;
+  margin-left: 190px;
+  min-height: 168px;
+  width: 165px;
+}
+
+.poradna-blog-final .socials {
+  align-items: flex-start;
+  display: flex;
+  gap: 25px;
+  min-width: 143px;
+}
+
+.poradna-blog-final .icon {
+  cursor: pointer;
+  height: 31px;
+  margin-top: 0;
+  width: 31px;
+}
+
+.poradna-blog-final .text-9 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 165px;
+}
+
+.poradna-blog-final .button-base {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: -0.03px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .text-10 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .flex-col-1 {
+  gap: 6px;
+  min-height: 32px;
+  width: 1120px;
+}
+
+.poradna-blog-final .vector-53 {
+  height: 1px;
+  object-fit: cover;
+  width: 1120px;
+}
+
+.poradna-blog-final .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 724px;
+  height: 25px;
+  min-width: 1082px;
+}
+
+.poradna-blog-final .copyright {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 111px;
+  white-space: nowrap;
+}
+
+.poradna-blog-final .frame-380 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .frame-502 {
+  align-items: flex-end;
+  display: flex;
+  height: 632px;
+  left: 233px;
+  min-width: 1143px;
+  position: absolute;
+  top: 0;
+}
+
+.poradna-blog-final .overlap-group7 {
+  height: 809px;
+  margin-bottom: -176.0px;
+  position: relative;
+  width: 648px;
+}
+
+.poradna-blog-final .rectangle-570 {
+  height: 728px;
+  left: 72px;
+  position: absolute;
+  top: 81px;
+  width: 576px;
+}
+
+.poradna-blog-final .rectangle-572 {
+  background-color: #ee9c335c;
+  height: 547px;
+  left: 150px;
+  position: absolute;
+  top: 86px;
+  width: 418px;
+}
+
+.poradna-blog-final .text-8-1 {
+  color: var(--neon-carrot);
+  font-family: var(--font-family-bebas_neue);
+  font-size: 170px;
+  font-weight: 400;
+  height: 138px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.poradna-blog-final .flex-col-2 {
+  align-self: center;
+  margin-bottom: 53.82px;
+  margin-left: 34px;
+  min-height: 364px;
+  width: 323px;
+}
+
+.poradna-blog-final .testimonial-jmno {
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.poradna-blog-final .lorem-ipsum-dolor-si-4 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 38px;
+  min-height: 72px;
+  text-align: center;
+  width: 260px;
+}
+
+.poradna-blog-final .primary-button-8 {
+  align-self: center;
+  background-color: var(--neon-carrot);
+  margin-left: 57.63px;
+  margin-top: 154px;
+  position: relative;
+  width: fit-content;
+}
+
+.poradna-blog-final .text-11 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poradna-blog-final .text-9-1 {
+  color: var(--neon-carrot);
+  font-family: var(--font-family-bebas_neue);
+  font-size: 170px;
+  font-weight: 400;
+  height: 138px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: 22.56px;
+  margin-left: 22px;
+  transform: rotate(178.54deg);
+  width: 115px;
+}
+
+.poradna-blog-final .autor-11-2023-3 {
+  height: 35px;
+  letter-spacing: 0;
+  line-height: 24px;
+  width: 186px;
+}
+
+.poradna-blog-final .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.poradna-blog-final .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.poradna-blog-final .primary-button-9 {
+  align-items: center;
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 16px;
+}

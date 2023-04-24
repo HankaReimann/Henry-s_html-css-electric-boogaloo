@@ -1,0 +1,24 @@
+/* screen - hlavni-super-clanek-perex */
+
+.hlavni-super-clanek-perex {
+  background-color: #fdfdfd6b;
+  border: 1px none;
+  display: flex;
+  min-height: 232px;
+  min-width: 204px;
+  width: 100%;
+}
+
+.hlavni-super-clanek-perex .autor-11-2023 {
+  color: var(--black);
+  font-family: var(--font-family-bebas_neue);
+  font-size: 8px;
+  font-weight: 400;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 130px;
+  margin-top: 170px;
+  white-space: nowrap;
+  width: 40px;
+}

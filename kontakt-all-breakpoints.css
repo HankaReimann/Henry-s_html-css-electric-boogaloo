@@ -1,0 +1,999 @@
+/* screen - blog-mobile-2 */
+
+.blog-mobile-2 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2818px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.blog-mobile-2 .group-23 {
+  align-self: flex-start;
+  height: 583px;
+  margin-left: -10773.49px;
+  margin-top: -10218px;
+  width: 522px;
+}
+
+.blog-mobile-2 .overlap-group9 {
+  height: 368px;
+  margin-top: 9635px;
+  position: relative;
+  width: 428px;
+}
+
+.blog-mobile-2 .menu-phone {
+  align-items: center;
+  background-color: var(--black-2);
+  display: flex;
+  height: 72px;
+  left: 0;
+  padding: 0 21px;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.blog-mobile-2 .logo {
+  height: 48px;
+  width: 68px;
+}
+
+.blog-mobile-2 .icon-search {
+  height: 36px;
+  margin-left: 218px;
+  margin-top: 4.0px;
+  width: 36px;
+}
+
+.blog-mobile-2 .group-247 {
+  height: 23px;
+  margin-left: 27px;
+  width: 36px;
+}
+
+.blog-mobile-2 .vector {
+  height: 298px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 428px;
+}
+
+.blog-mobile-2 .vector-1 {
+  height: 276px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 428px;
+}
+
+.blog-mobile-2 .deska_mesice {
+  height: 180px;
+  left: 133px;
+  position: absolute;
+  top: 100px;
+  width: 180px;
+}
+
+.blog-mobile-2 .group-24 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 224px;
+}
+
+.blog-mobile-2 .overlap-group-2 {
+  height: 146px;
+  position: relative;
+  width: 220px;
+}
+
+.blog-mobile-2 .vector-20 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 54px;
+  width: 25px;
+}
+
+.blog-mobile-2 .heading {
+  height: 146px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 145.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.blog-mobile-2 .heading-1 {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 78px;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.blog-mobile-2 .vector-19 {
+  height: 3px;
+  left: 2px;
+  position: absolute;
+  top: 92px;
+  width: 63px;
+}
+
+.blog-mobile-2 .vyber-si-co-t-zajm {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 1.0px;
+  margin-top: 23px;
+  min-width: 113px;
+  white-space: nowrap;
+}
+
+.blog-mobile-2 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 14px;
+  min-width: 384px;
+}
+
+.blog-mobile-2 .overlap-group {
+  align-items: center;
+  background-color: var(--neon-carrot);
+  border-radius: 29px;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  min-width: 80px;
+  padding: 0 13px;
+}
+
+.blog-mobile-2 .ambasadoi-a-artists {
+  letter-spacing: 0;
+  line-height: 9px;
+  min-height: 7px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.blog-mobile-2 .overlap-group-1 {
+  align-items: center;
+  background-color: var(--neon-carrot);
+  border-radius: 29px;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  margin-left: 20px;
+  min-width: 80px;
+  padding: 0 13px;
+}
+
+.blog-mobile-2 .overlap-group7 {
+  align-items: center;
+  background-color: var(--neon-carrot);
+  border-radius: 29px;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  margin-left: 22px;
+  min-width: 80px;
+  padding: 0 13px;
+}
+
+.blog-mobile-2 .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  margin-left: 2.0px;
+  margin-top: 16px;
+  min-width: 288px;
+}
+
+.blog-mobile-2 .artist_karta-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 31px;
+  height: 361px;
+  margin-right: 7.0px;
+  margin-top: 109px;
+  min-width: 393px;
+}
+
+.blog-mobile-2 .artist_karta {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 358px;
+  padding: 0.0px 15px;
+  width: 181px;
+}
+
+.blog-mobile-2 .kdo-stoj-za-znakou {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 8px;
+  margin-top: 15px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.blog-mobile-2 .lorem-ipsum-dolor-si {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 4px;
+  min-height: 76px;
+  text-align: center;
+  width: 142px;
+}
+
+.blog-mobile-2 .primary-button {
+  align-items: center;
+  background-color: var(--neon-carrot);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 35px;
+  justify-content: center;
+  margin-right: 13.87px;
+  margin-top: 17px;
+  padding: 8px 16px;
+  position: relative;
+  width: 91px;
+}
+
+.blog-mobile-2 .text {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -1.68px;
+  margin-left: -4.44px;
+  margin-top: -3.68px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.blog-mobile-2 .artist_karta-1 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 358px;
+  padding: 0.0px 15px;
+  width: 181px;
+}
+
+.blog-mobile-2 .medailonek {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 26.0px;
+  margin-top: 15px;
+  min-width: 71px;
+  white-space: nowrap;
+}
+
+.blog-mobile-2 .artist_karta-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 26px;
+  height: 360px;
+  margin-right: 12.0px;
+  margin-top: 23px;
+  min-width: 388px;
+}
+
+.blog-mobile-2 .mapa {
+  background-color: var(--neon-carrot);
+  display: flex;
+  height: 356px;
+  margin-top: 200px;
+  width: 428px;
+}
+
+.blog-mobile-2 .google-mapa {
+  height: 80px;
+  letter-spacing: 0;
+  line-height: 49.8px;
+  margin-left: 122px;
+  margin-top: 128px;
+  text-align: center;
+  width: 151px;
+}
+
+.blog-mobile-2 .footer-phone {
+  align-items: flex-start;
+  display: flex;
+  height: 552px;
+  margin-top: 380px;
+  min-width: 428px;
+  padding: 0.0px 0;
+}
+
+.blog-mobile-2 .overlap-group8 {
+  align-items: flex-start;
+  background-image: url(../img/vector-23.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 546px;
+  padding: 16.0px 19px;
+  width: 428px;
+}
+
+.blog-mobile-2 .frame-378 {
+  align-items: flex-start;
+  display: flex;
+  gap: 88px;
+  margin-left: 29.5px;
+  margin-top: 144px;
+  position: relative;
+  width: fit-content;
+}
+
+.blog-mobile-2 .frame-35 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.blog-mobile-2 .poradna {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.blog-mobile-2 .od-vs {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.blog-mobile-2 .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.blog-mobile-2 .struny {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.blog-mobile-2 .lifestyle {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.blog-mobile-2 .gear {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.blog-mobile-2 .socials {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-left: 1px;
+  margin-top: 48px;
+  min-width: 143px;
+}
+
+.blog-mobile-2 .social-icon {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.blog-mobile-2 .social-icon-1 {
+  margin-left: 25px;
+}
+
+.blog-mobile-2 .social-icon-2 {
+  margin-left: 26px;
+}
+
+.blog-mobile-2 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 121px;
+  height: 24px;
+  margin-top: 40px;
+  min-width: 330px;
+}
+
+.blog-mobile-2 .vector-53 {
+  align-self: center;
+  height: 1px;
+  margin-right: 0.5px;
+  margin-top: 16px;
+  object-fit: cover;
+  width: 388px;
+}
+
+.blog-mobile-2 .frame-379 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  margin-right: 21.5px;
+  margin-top: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.blog-mobile-2 .text-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 202px;
+}
+
+.blog-mobile-2 .copyright {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.blog-mobile-2 .social-icon-3 {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+/* screen - kontakt-all-breakpoints */
+
+.kontakt-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  min-width: 1728px;
+  overflow-x: hidden;
+}
+
+.kontakt-all-breakpoints .overlap-group1 {
+  height: 5179px;
+  margin-left: -179px;
+  position: relative;
+  width: 1947px;
+}
+
+.kontakt-all-breakpoints .vector-2 {
+  height: 863px;
+  left: 179px;
+  position: absolute;
+  top: 0;
+  width: 1731px;
+}
+
+.kontakt-all-breakpoints .mask-group {
+  height: 505px;
+  left: 179px;
+  position: absolute;
+  top: 0;
+  width: 1731px;
+}
+
+.kontakt-all-breakpoints .deska_mesice-1 {
+  height: 663px;
+  left: 179px;
+  position: absolute;
+  top: 95px;
+  width: 663px;
+}
+
+.kontakt-all-breakpoints .overlap-group-3 {
+  height: 146px;
+  left: 264px;
+  position: absolute;
+  top: 300px;
+  width: 270px;
+}
+
+.kontakt-all-breakpoints .vector-20-1 {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 270px;
+}
+
+.kontakt-all-breakpoints .heading-2 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 145.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.kontakt-all-breakpoints .vector-19-1 {
+  height: 14px;
+  left: 268px;
+  position: absolute;
+  top: 394px;
+  width: 186px;
+}
+
+.kontakt-all-breakpoints .menu {
+  background-color: var(--black-2);
+  display: flex;
+  height: 96px;
+  left: 182px;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.kontakt-all-breakpoints .logo-1 {
+  height: 64.54px;
+  margin-left: 33px;
+  margin-top: 16px;
+  width: 91px;
+}
+
+.kontakt-all-breakpoints .frame-329 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  height: 40px;
+  margin-left: 163px;
+  margin-top: 28px;
+  position: relative;
+  width: 483px;
+}
+
+.kontakt-all-breakpoints .menu-button {
+  align-items: flex-start;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.kontakt-all-breakpoints .secondary-button {
+  align-items: center;
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--white);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  margin-left: 334px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 272px;
+}
+
+.kontakt-all-breakpoints .icon-search-1 {
+  height: 27px;
+  min-width: 27px;
+  position: relative;
+}
+
+.kontakt-all-breakpoints .text-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.kontakt-all-breakpoints .primary-button-icon {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  justify-content: center;
+  margin-left: 37px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 159px;
+}
+
+.kontakt-all-breakpoints .frame-328 {
+  align-items: center;
+  background-color: var(--dune);
+  display: flex;
+  gap: 12px;
+  height: 48px;
+  justify-content: center;
+  margin-left: 23px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 89px;
+}
+
+.kontakt-all-breakpoints .cz {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.kontakt-all-breakpoints .icon-1 {
+  height: 7.95px;
+  min-width: 15.17px;
+  position: relative;
+}
+
+.kontakt-all-breakpoints .footer {
+  align-items: center;
+  background-color: transparent;
+  background-image: url(../img/vector-14.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
+  height: auto;
+  justify-content: flex-start;
+  left: 176px;
+  min-height: 627px;
+  padding: 30.2px 0;
+  position: absolute;
+  top: 4552px;
+  width: 1731px;
+}
+
+.kontakt-all-breakpoints .flex-row-1 {
+  height: 176px;
+  margin-right: 100.17px;
+  margin-top: 295px;
+  min-width: 1022px;
+}
+
+.kontakt-all-breakpoints .group {
+  align-self: flex-end;
+  height: 157px;
+  margin-bottom: 0;
+  width: 51px;
+}
+
+.kontakt-all-breakpoints .frame-358 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 246px;
+  position: relative;
+  width: fit-content;
+}
+
+.kontakt-all-breakpoints .poradna-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.kontakt-all-breakpoints .frame-359 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 198px;
+  position: relative;
+  width: fit-content;
+}
+
+.kontakt-all-breakpoints .lifestyle-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.kontakt-all-breakpoints .gear-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.kontakt-all-breakpoints .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 57px;
+  margin-left: 190px;
+  min-height: 168px;
+  width: 165px;
+}
+
+.kontakt-all-breakpoints .socials-1 {
+  align-items: center;
+  display: flex;
+  gap: 26px;
+  justify-content: center;
+  min-width: 143px;
+}
+
+.kontakt-all-breakpoints .icon {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.kontakt-all-breakpoints .text-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 165px;
+}
+
+.kontakt-all-breakpoints .button-base {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: -0.03px;
+  position: relative;
+  width: fit-content;
+}
+
+.kontakt-all-breakpoints .text-4 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.kontakt-all-breakpoints .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 32px;
+  width: 1122px;
+}
+
+.kontakt-all-breakpoints .vector-53-1 {
+  height: 1px;
+  object-fit: cover;
+  width: 1122px;
+}
+
+.kontakt-all-breakpoints .flex-row-2 {
+  gap: 726px;
+  height: 25px;
+  margin-left: 0;
+  min-width: 1083px;
+}
+
+.kontakt-all-breakpoints .frame-380 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  position: relative;
+  width: fit-content;
+}
+
+.kontakt-all-breakpoints .kontakt_okynko {
+  display: flex;
+  flex-direction: column;
+  gap: 33.6px;
+  height: 532px;
+  left: 552px;
+  position: absolute;
+  top: 2058px;
+  width: 475px;
+}
+
+.kontakt-all-breakpoints .pavel-m-3 {
+  height: 297.39px;
+  margin-left: 94px;
+  object-fit: cover;
+  width: 253px;
+}
+
+.kontakt-all-breakpoints .frame-49 {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  height: 201px;
+}
+
+.kontakt-all-breakpoints .kdo-stoj-za-znakou-1 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 115px;
+  text-align: center;
+  white-space: nowrap;
+  width: 216px;
+}
+
+.kontakt-all-breakpoints .lorem-ipsum-dolor-si-1 {
+  height: 143px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 475px;
+}
+
+.kontakt-all-breakpoints .konatkt_okynko1 {
+  display: flex;
+  flex-direction: column;
+  gap: 33.6px;
+  height: 532px;
+  left: 1058px;
+  position: absolute;
+  top: 2058px;
+  width: 475px;
+}
+
+.kontakt-all-breakpoints .tereza-r-3 {
+  height: 297.39px;
+  margin-left: 91px;
+  width: 253px;
+}
+
+.kontakt-all-breakpoints .njaka-dal-funkce {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 118px;
+  text-align: center;
+  white-space: nowrap;
+  width: 210px;
+}
+
+.kontakt-all-breakpoints .guitarist-01-1 {
+  height: 577px;
+  left: 794px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 695px;
+}
+
+.kontakt-all-breakpoints .povinne_udaje {
+  display: flex;
+  flex-direction: column;
+  height: 535px;
+  left: 755px;
+  position: absolute;
+  top: 1169px;
+  width: 575px;
+}
+
+.kontakt-all-breakpoints .henrys-music {
+  height: 146px;
+  letter-spacing: 0;
+  line-height: 145.8px;
+  margin-left: 164px;
+  white-space: nowrap;
+  width: 277px;
+}
+
+.kontakt-all-breakpoints .i123456-dicz123456789 {
+  height: 160px;
+  letter-spacing: 0;
+  line-height: 79.8px;
+  margin-left: 122px;
+  text-align: center;
+  width: 332px;
+}
+
+.kontakt-all-breakpoints .ulice-123-msto-111-00 {
+  color: var(--black);
+  font-family: var(--font-family-helveticaneuew01-66mediumit-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 153px;
+  letter-spacing: 0;
+  line-height: 49.8px;
+  margin-top: 76px;
+  text-align: center;
+}
+
+.kontakt-all-breakpoints .mapa_google {
+  background-color: var(--alto);
+  display: flex;
+  height: 869px;
+  left: 434px;
+  position: absolute;
+  top: 3101px;
+  width: 1166px;
+}
+
+.kontakt-all-breakpoints .mapa-1 {
+  color: var(--black);
+  font-family: var(--font-family-helveticaneuew01-66mediumit-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 50px;
+  letter-spacing: 0;
+  line-height: 49.8px;
+  margin-left: 578px;
+  margin-top: 410px;
+  text-align: center;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.kontakt-all-breakpoints .struny-2 {
+  height: 4657px;
+  left: 0;
+  position: absolute;
+  top: 118px;
+  width: 1947px;
+}
+
+.kontakt-all-breakpoints .flex-row {
+  align-items: flex-start;
+  display: flex;
+}
+
+.kontakt-all-breakpoints .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+@media screen and (max-width: 1727px) {
+  .screen.kontakt-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1728px) {
+  .screen.blog-mobile-2 { 
+    display: none;
+   }
+}

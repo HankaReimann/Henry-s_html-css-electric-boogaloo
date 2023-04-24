@@ -1,0 +1,153 @@
+/* screen - frame-482 */
+
+.frame-482 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 16px;
+  height: 238px;
+  min-width: 1622px;
+  padding: 0 11px;
+}
+
+.frame-482 .overlap-group2 {
+  height: 227px;
+  position: relative;
+  width: 185px;
+}
+
+.frame-482 .ellipse-12 {
+  left: 62px;
+}
+
+.frame-482 .karel-novk {
+  left: 65px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 91px;
+  white-space: nowrap;
+}
+
+.frame-482 .group-container {
+  height: 156px;
+  left: 0;
+  position: absolute;
+  top: 71px;
+  width: 185px;
+}
+
+.frame-482 .overlap-group {
+  height: 111px;
+  left: 26px;
+  position: absolute;
+  top: 45px;
+  width: 159px;
+}
+
+.frame-482 .hvzdiky {
+  display: flex;
+  height: 20px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.frame-482 .icon-star {
+  height: 20px;
+  width: 20px;
+}
+
+.frame-482 .struny-henrys-bronz {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 159px;
+}
+
+.frame-482 .group-245 {
+  background-color: var(--neon-carrot);
+  border-radius: 25.5px;
+  box-shadow: 0px 2.77px 2.21px #00000002 , 0px 6.65px 5.32px #00000008 , 0px 12.52px 10.02px #00000012 , 0px 22.34px 17.87px #00000020 , 0px 41.78px 33.42px #00000034 , 0px 100px 80px #0000005e;
+  display: flex;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180deg);
+  width: 51px;
+}
+
+.frame-482 .icon {
+  height: 15.87px;
+  margin-left: 23px;
+  margin-top: 18.0px;
+  transform: rotate(180deg);
+  width: 9px;
+}
+
+.frame-482 .overlap-group3 {
+  height: 227px;
+  margin-top: 2px;
+  position: relative;
+  width: 197px;
+}
+
+.frame-482 .ellipse-13 {
+  left: 36px;
+}
+
+.frame-482 .karel-novk-1 {
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 91px;
+  white-space: nowrap;
+}
+
+.frame-482 .group-container-1 {
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 69px;
+  width: 197px;
+}
+
+.frame-482 .overlap-group1 {
+  height: 111px;
+  left: 0;
+  position: absolute;
+  top: 47px;
+  width: 159px;
+}
+
+.frame-482 .group-244 {
+  background-color: var(--neon-carrot);
+  border-radius: 25.5px;
+  box-shadow: 0px 2.77px 2.21px #00000002 , 0px 6.65px 5.32px #00000008 , 0px 12.52px 10.02px #00000012 , 0px 22.34px 17.87px #00000020 , 0px 41.78px 33.42px #00000034 , 0px 100px 80px #0000005e;
+  display: flex;
+  height: 51px;
+  left: 146px;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.frame-482 .icon-1 {
+  height: 15.87px;
+  margin-left: 23px;
+  margin-top: 18.0px;
+  width: 9px;
+}
+
+.frame-482 .ellipse {
+  height: 87px;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}

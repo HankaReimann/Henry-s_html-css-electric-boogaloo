@@ -1,0 +1,1201 @@
+/* screen - homepage */
+
+.homepage {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  gap: 927px;
+  height: 5179px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+
+
+
+
+
+
+
+.homepage .group {
+  align-items: flex-start;
+  display: flex;
+  height: 3305px;
+  justify-content: flex-end;
+  margin-left: -3351px;
+  margin-top: -2179.8px;
+  min-width: 2120px;
+  opacity: 0.79;
+  transform: rotate(8.72deg);
+}
+
+.homepage .vector-container {
+  height: 3335px;
+  margin-top: -9206.36px;
+  position: relative;
+  width: 2219px;
+}
+
+.homepage .vector {
+  height: 1263px;
+  left: 635px;
+  position: absolute;
+  top: 125px;
+  transform: rotate(-8.72deg);
+  width: 1025px;
+}
+
+.homepage .vector-1 {
+  height: 1274px;
+  left: 649px;
+  position: absolute;
+  top: 121px;
+  transform: rotate(-8.72deg);
+  width: 1004px;
+}
+
+.homepage .vector-2 {
+  height: 1289px;
+  left: 660px;
+  position: absolute;
+  top: 117px;
+  transform: rotate(-8.72deg);
+  width: 985px;
+}
+
+.homepage .vector-3 {
+  height: 1304px;
+  left: 674px;
+  position: absolute;
+  top: 114px;
+  transform: rotate(-8.72deg);
+  width: 963px;
+}
+
+.homepage .vector-4 {
+  height: 1320px;
+  left: 694px;
+  position: absolute;
+  top: 111px;
+  transform: rotate(-8.72deg);
+  width: 937px;
+}
+
+.homepage .vector-5 {
+  height: 1337px;
+  left: 710px;
+  position: absolute;
+  top: 108px;
+  transform: rotate(-8.72deg);
+  width: 914px;
+}
+
+.homepage .vector-6 {
+  height: 1353px;
+  left: 720px;
+  position: absolute;
+  top: 104px;
+  transform: rotate(-8.72deg);
+  width: 896px;
+}
+
+.homepage .vector-7 {
+  height: 1369px;
+  left: 737px;
+  position: absolute;
+  top: 101px;
+  transform: rotate(-8.72deg);
+  width: 872px;
+}
+
+.homepage .vector-8 {
+  height: 1385px;
+  left: 761px;
+  position: absolute;
+  top: 99px;
+  transform: rotate(-8.72deg);
+  width: 841px;
+}
+
+.homepage .vector-9 {
+  height: 1403px;
+  left: 102px;
+  position: absolute;
+  top: 419px;
+  transform: rotate(-8.72deg);
+  width: 828px;
+}
+
+.homepage .vector-10 {
+  height: 1419px;
+  left: 797px;
+  position: absolute;
+  top: 91px;
+  transform: rotate(-8.72deg);
+  width: 814px;
+}
+
+.homepage .vector-11 {
+  height: 1434px;
+  left: 819px;
+  position: absolute;
+  top: 88px;
+  transform: rotate(-8.72deg);
+  width: 801px;
+}
+
+.homepage .vector-12 {
+  height: 1451px;
+  left: 831px;
+  position: absolute;
+  top: 83px;
+  transform: rotate(-8.72deg);
+  width: 797px;
+}
+
+.homepage .vector-13 {
+  height: 1466px;
+  left: 848px;
+  position: absolute;
+  top: 79px;
+  transform: rotate(-8.72deg);
+  width: 788px;
+}
+
+.homepage .vector-14 {
+  height: 1482px;
+  left: 862px;
+  position: absolute;
+  top: 74px;
+  transform: rotate(-8.72deg);
+  width: 784px;
+}
+
+.homepage .vector-15 {
+  height: 1492px;
+  left: 878px;
+  position: absolute;
+  top: 70px;
+  transform: rotate(-8.72deg);
+  width: 776px;
+}
+
+.homepage .vector-16 {
+  height: 1507px;
+  left: 683px;
+  position: absolute;
+  top: 1778px;
+  transform: rotate(-8.72deg);
+  width: 773px;
+}
+
+.homepage .vector-17 {
+  height: 1518px;
+  left: 902px;
+  position: absolute;
+  top: 60px;
+  transform: rotate(-8.72deg);
+  width: 769px;
+}
+
+.homepage .vector-18 {
+  height: 1537px;
+  left: 913px;
+  position: absolute;
+  top: 54px;
+  transform: rotate(-8.72deg);
+  width: 769px;
+}
+
+.homepage .vector-19 {
+  height: 1540px;
+  left: 925px;
+  position: absolute;
+  top: 49px;
+  transform: rotate(-8.72deg);
+  width: 766px;
+}
+
+.homepage .vector-20 {
+  height: 1550px;
+  left: 962px;
+  position: absolute;
+  top: 76px;
+  transform: rotate(-8.72deg);
+  width: 747px;
+}
+
+.homepage .vector-21 {
+  height: 1557px;
+  left: 1000px;
+  position: absolute;
+  top: 103px;
+  transform: rotate(-8.72deg);
+  width: 727px;
+}
+
+.homepage .vector-22 {
+  height: 1561px;
+  left: 1037px;
+  position: absolute;
+  top: 130px;
+  transform: rotate(-8.72deg);
+  width: 706px;
+}
+
+.homepage .vector-23 {
+  height: 1560px;
+  left: 1077px;
+  position: absolute;
+  top: 157px;
+  transform: rotate(-8.72deg);
+  width: 684px;
+}
+
+.homepage .vector-24 {
+  height: 1568px;
+  left: 1114px;
+  position: absolute;
+  top: 184px;
+  transform: rotate(-8.72deg);
+  width: 665px;
+}
+
+.homepage .vector-25 {
+  height: 1566px;
+  left: 1153px;
+  position: absolute;
+  top: 211px;
+  transform: rotate(-8.72deg);
+  width: 642px;
+}
+
+.homepage .vector-26 {
+  height: 1573px;
+  left: 1230px;
+  position: absolute;
+  top: 266px;
+  transform: rotate(-8.72deg);
+  width: 600px;
+}
+
+.homepage .vector-27 {
+  height: 1577px;
+  left: 1268px;
+  position: absolute;
+  top: 293px;
+  transform: rotate(-8.72deg);
+  width: 580px;
+}
+
+.homepage .vector-28 {
+  height: 1581px;
+  left: 1306px;
+  position: absolute;
+  top: 320px;
+  transform: rotate(-8.72deg);
+  width: 560px;
+}
+
+.homepage .vector-29 {
+  height: 1588px;
+  left: 1343px;
+  position: absolute;
+  top: 347px;
+  transform: rotate(-8.72deg);
+  width: 541px;
+}
+
+.homepage .vector-30 {
+  height: 1590px;
+  left: 1382px;
+  position: absolute;
+  top: 374px;
+  transform: rotate(-8.72deg);
+  width: 520px;
+}
+
+.homepage .vector-31 {
+  height: 1598px;
+  left: 1419px;
+  position: absolute;
+  top: 401px;
+  transform: rotate(-8.72deg);
+  width: 503px;
+}
+
+.homepage .vector-32 {
+  height: 1601px;
+  left: 1458px;
+  position: absolute;
+  top: 427px;
+  transform: rotate(-8.72deg);
+  width: 489px;
+}
+
+.homepage .vector-33 {
+  height: 1612px;
+  left: 1495px;
+  position: absolute;
+  top: 453px;
+  transform: rotate(-8.72deg);
+  width: 483px;
+}
+
+.homepage .vector-34 {
+  height: 1619px;
+  left: 1533px;
+  position: absolute;
+  top: 479px;
+  transform: rotate(-8.72deg);
+  width: 475px;
+}
+
+.homepage .vector-35 {
+  height: 1623px;
+  left: 1041px;
+  position: absolute;
+  top: 1349px;
+  transform: rotate(-8.72deg);
+  width: 465px;
+}
+
+.homepage .vector-36 {
+  height: 1622px;
+  left: 1614px;
+  position: absolute;
+  top: 532px;
+  transform: rotate(-8.72deg);
+  width: 454px;
+}
+
+.homepage .vector-37 {
+  height: 1628px;
+  left: 1652px;
+  position: absolute;
+  top: 558px;
+  transform: rotate(-8.72deg);
+  width: 446px;
+}
+
+.homepage .flex-col {
+  flex-direction: column;
+  gap: 945px;
+  min-height: 5179px;
+  width: 2248px;
+}
+
+.homepage .overlap-group3 {
+  height: 3607px;
+  position: relative;
+  width: 2248px;
+}
+
+.homepage .header {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 920px;
+  justify-content: flex-start;
+  left: 304px;
+  position: absolute;
+  top: 0;
+  width: 1731px;
+}
+
+.homepage .overlap-group {
+  height: 920px;
+  position: relative;
+  width: 1730px;
+}
+
+.homepage .vector-38 {
+  height: 671px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 1728px;
+}
+
+.homepage .vector-39 {
+  height: 920px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.homepage .group-23 {
+  height: 920px;
+  left: 523px;
+  position: absolute;
+  top: 0;
+  width: 1205px;
+}
+
+.homepage .deska_mesice {
+  height: 578px;
+  left: 792px;
+  position: absolute;
+  top: 0;
+  width: 695px;
+}
+
+.homepage .guitarist-01-1 {
+  height: 822px;
+  left: 565px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 856px;
+}
+
+.homepage .group-24 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 75px;
+  min-height: 214px;
+  position: absolute;
+  top: 376px;
+  width: 532px;
+}
+
+.homepage .vector-20-1 {
+  height: 14px;
+  margin-left: 0;
+  margin-top: -7px;
+  width: 338px;
+}
+
+.homepage .heading {
+  color: var(--white);
+  font-size: 180px;
+  line-height: 145.8px;
+  margin-top: 24px;
+  min-height: 137px;
+}
+
+.homepage .flex-row {
+  gap: 6px;
+  height: 32px;
+  margin-left: 0;
+  margin-top: 14px;
+  min-width: 528px;
+}
+
+.homepage .vector-19-1 {
+  height: 14px;
+  margin-bottom: 0.41px;
+  width: 186px;
+}
+
+.homepage .heading-1 {
+  color: var(--neon-carrot);
+  font-size: 32.4px;
+  line-height: 32.4px;
+  width: 336px;
+}
+
+.homepage .menu {
+  background-color: var(--black-2);
+  display: flex;
+  height: 96px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.homepage .logo {
+  height: 64.54px;
+  margin-left: 33px;
+  margin-top: 16px;
+  width: 91px;
+}
+
+.homepage .frame-329 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  height: 40px;
+  margin-left: 163px;
+  margin-top: 28px;
+  position: relative;
+  width: 371px;
+}
+
+.homepage .menu-button {
+  align-items: flex-start;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .secondary-button {
+  align-items: center;
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--white);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  margin-left: 446px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 272px;
+}
+
+.homepage .icon-search {
+  height: 27px;
+  min-width: 27px;
+  position: relative;
+}
+
+.homepage .text {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .primary-button-icon {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  justify-content: center;
+  margin-left: 37px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 159px;
+}
+
+.homepage .frame-328 {
+  align-items: center;
+  background-color: var(--dune);
+  display: flex;
+  gap: 12px;
+  height: 48px;
+  justify-content: center;
+  margin-left: 23px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 89px;
+}
+
+.homepage .cz {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .icon {
+  height: 7.94px;
+  min-width: 15.17px;
+  position: relative;
+}
+
+.homepage .akustik-bronze-light-1022x1024-2 {
+  left: 647px;
+  opacity: 0; /* The element is initially hidden */
+   animation-name: fade-in;
+  animation-duration: 2s;
+  animation-delay: 0.3s; /* Set a delay of 2 seconds */
+  animation-fill-mode: forwards;
+   animation-timing-function: ease-in-out;
+
+}
+@keyframes fade-in {
+  from {
+    opacity: 0.5; /* The element starts with an opacity of 0 */
+  }
+  to {
+    opacity: 2; /* The element ends with an opacity of 1 */
+  }
+}
+
+
+.homepage .akustik-bronze-light-1022x1024-3 {
+  left: 1015px;
+  opacity: 0; /* The element is initially hidden */
+   animation-name: fade-in;
+  animation-duration: 2s;
+  animation-delay: 0.3s; /* Set a delay of 2 seconds */
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-in-out;
+}
+
+.homepage .akustik-bronze-light-1022x1024-4 {
+  left: 1382px;
+  opacity: 0; /* The element is initially hidden */
+   animation-name: fade-in;
+  animation-duration: 2s;
+  animation-delay: 0.3s; /* Set a delay of 2 seconds */
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-in-out;
+}
+
+.homepage .frame-264 {
+  background-image: url(../img/frame-264@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: 0px 2.81px 4.84px #00000007 , 0px 12.39px 10.02px #0000000c , 0px 30.4px 19.99px #0000000f , 0px 58.55px 39.18px #00000013 , 0px 98.52px 72.03px #00000017 , 0px 152px 123px #0000001f;
+  cursor: pointer;
+  height: 230px;
+  left: 991px;
+  position: absolute;
+  top: 999px;
+  width: 266px;
+  opacity: 0; /* The element is initially hidden */
+   animation-name: fade-in;
+  animation-duration: 2s;
+  animation-delay: 0.3s; /* Set a delay of 2 seconds */
+  animation-fill-mode: forwards;
+   animation-timing-function: ease-in-out;
+}
+
+.homepage .frame-267 {
+  background-image: url(../img/frame-267@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 246px;
+  left: 698px;
+  position: absolute;
+  top: 2435px;
+  width: 376px;
+}
+
+.homepage .acoustic-12-st-bronze-light-10-47 {
+  left: 644px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 1726px;
+  white-space: nowrap;
+  width: 284px;
+}
+
+.homepage .acoustic-12-st-bronze-light-10-47-1 {
+  left: 1012px;
+}
+
+.homepage .acoustic-12-st-bronze-light-10-47-2 {
+  left: 1386px;
+}
+
+.homepage .produkty {
+  left: 666px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1259px;
+  width: 227px;
+}
+
+.homepage .poradna {
+  left: 1054px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1259px;
+  width: 227px;
+}
+
+.homepage .artists {
+  left: 1461px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1259px;
+  width: 227px;
+}
+
+.homepage .normln-struny {
+  left: 1276px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  text-align: center;
+  top: 2413px;
+  white-space: nowrap;
+}
+
+.homepage .frame-517 {
+  align-items: flex-start;
+  display: flex;
+  gap: 130px;
+  height: 288px;
+  left: 674px;
+  min-width: 983px;
+  position: absolute;
+  top: 1962px;
+}
+
+.homepage .flex-col-1 {
+  gap: 15px;
+  margin-top: -1px;
+  min-height: 230px;
+  width: 477px;
+}
+
+.homepage .coated-struny {
+  letter-spacing: 0;
+  line-height: 90px;
+  margin-left: 9px;
+  min-width: 288px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.homepage .lorem-ipsum-dolor-si {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 125px;
+  text-align: center;
+  width: 477px;
+}
+
+.homepage .frame-266 {
+  align-self: flex-end;
+  background-image: url(../img/frame-266@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 241px;
+  width: 376px;
+}
+
+.homepage .lorem-ipsum-dolor-si-1 {
+  left: 1180px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: right;
+  top: 2555px;
+  width: 477px;
+}
+
+.homepage .electric {
+  height: 380px;
+  left: 574px;
+  object-fit: cover;
+  position: absolute;
+  top: 1026px;
+  width: 405px;
+  opacity: 0; /* The element is initially hidden */
+   animation-name: fade-in;
+  animation-duration: 2s;
+  animation-delay: 0.3s; /* Set a delay of 2 seconds */
+  animation-fill-mode: forwards;
+   animation-timing-function: ease-in-out;
+}
+
+.homepage .tereza-r-1 {
+  cursor: pointer;
+  height: 440px;
+  left: 1357px;
+  position: absolute;
+  top: 998px;
+  width: 356px;
+  opacity: 0; /* The element is initially hidden */
+   animation-name: fade-in;
+  animation-duration: 2s;
+  animation-delay: 0.3s; /* Set a delay of 2 seconds */
+  animation-fill-mode: forwards;
+   animation-timing-function: ease-in-out;
+}
+
+.homepage .frame-481::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.homepage .frame-481 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 439px;
+  left: 0;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 2764px;
+  width: 2203px;
+}
+
+.homepage .overlap-group1 {
+  flex: 0 0 auto;
+  height: 457px;
+  margin-left: 69px;
+  margin-top: -68px;
+  position: relative;
+  width: 2152px;
+}
+
+.homepage .mask-group {
+  background-image: url(../img/ondra-k-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 299px;
+  left: 1818px;
+  position: absolute;
+  top: 158px;
+  width: 253px;
+}
+
+.homepage .jirka-r-1 {
+  height: 298px;
+  left: 1515px;
+  object-fit: cover;
+  position: absolute;
+  top: 155px;
+  width: 253px;
+}
+
+.homepage .jirka-h-1 {
+  height: 298px;
+  left: 909px;
+  object-fit: cover;
+  position: absolute;
+  top: 155px;
+  width: 253px;
+}
+
+.homepage .ales-p-1 {
+  height: 297px;
+  left: 1212px;
+  object-fit: cover;
+  position: absolute;
+  top: 156px;
+  width: 253px;
+}
+
+.homepage .karol-k-2 {
+  height: 297px;
+  left: 606px;
+  position: absolute;
+  top: 158px;
+  width: 253px;
+}
+
+.homepage .tereza-r-2 {
+  height: 297px;
+  left: 303px;
+  position: absolute;
+  top: 156px;
+  width: 253px;
+}
+
+.homepage .pavel-m-2 {
+  height: 297px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 253px;
+}
+
+.homepage .ellipse-52 {
+  background-color: #fffcfc;
+  border-radius: 969px/101px;
+  left: 214px;
+  top: 0;
+  width: 1938px;
+}
+
+.homepage .ellipse-53 {
+  background-color: var(--white);
+  border-radius: 999.5px/101px;
+  left: 249px;
+  top: 3102px;
+  width: 1999px;
+}
+
+.carousel_kocicky {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 400px;
+}
+
+.slides_kocicky {
+  display: flex;
+  width: 100%;
+  animation: slide 10s infinite;
+}
+
+.slide_kocicky {
+  flex: 1;
+  margin: 0 10px;
+  height: 100%;
+  position: relative;
+  transition: transform 0.5s ease-out;
+}
+
+.slide_kocicky img  {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.slide_kocicky:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+
+.homepage .group-266 {
+  height: 2918px;
+  left: 552px;
+  position: absolute;
+  top: 689px;
+  width: 1480px;
+}
+
+.homepage .footer {
+  align-items: center;
+  background-color: transparent;
+  background-image: url(../img/vector-4.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  gap: 63px;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 88.0px;
+  min-height: 627px;
+  padding: 30.0px 0;
+  width: 1728px;
+}
+
+.homepage .flex-row-1 {
+  height: 176px;
+  margin-right: 100.0px;
+  margin-top: 295px;
+  min-width: 1020px;
+}
+
+.homepage .group-1 {
+  align-self: flex-end;
+  height: 157px;
+  margin-bottom: 0;
+  width: 51px;
+}
+
+.homepage .frame-358 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 246px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .poradna-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .od-vs {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .frame-359 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 198px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .struny {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .lifestyle {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .gear {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .flex-col-2 {
+  align-self: flex-end;
+  gap: 57px;
+  margin-left: 190px;
+  min-height: 168px;
+  width: 165px;
+}
+
+.homepage .socials {
+  align-items: center;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  min-width: 143px;
+}
+
+.homepage .social-icon {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.homepage .text-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 165px;
+}
+
+.homepage .button-base {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .text-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .flex-col-3 {
+  gap: 7px;
+  min-height: 33px;
+  width: 1120px;
+}
+
+.homepage .vector-53 {
+  height: 1px;
+  object-fit: cover;
+  width: 1120px;
+}
+
+.homepage .flex-row-2 {
+  gap: 724px;
+  height: 25px;
+  min-width: 1082px;
+}
+
+.homepage .copyright {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 111px;
+  white-space: nowrap;
+}
+
+.homepage .frame-380 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .acoustic-12-st-bronze-light-10-47-3 {
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 1734px;
+  white-space: nowrap;
+  width: 290px;
+}
+
+.homepage .akustik-bronze-light-1022x1024 {
+  cursor: pointer;
+  height: 280px;
+  object-fit: cover;
+  position: absolute;
+  top: 1436px;
+  width: 306px;
+}
+
+.homepage .ellipse {
+  height: 202px;
+  position: absolute;
+}
+
+.homepage .flex {
+  align-items: center;
+  display: flex;
+}
+
+.homepage .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.homepage .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.homepage .heading-2 {
+  font-family: var(--font-family-bebas_neue);
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}

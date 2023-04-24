@@ -1,0 +1,941 @@
+/* screen - artists-all-breakpoints */
+
+.artists-all-breakpoints {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 5199px;
+  overflow-x: hidden;
+  width: 1770px;
+}
+
+.artists-all-breakpoints .overlap-group1-1 {
+  align-self: flex-start;
+  background-image: url(../img/vector-80.png);
+  background-size: 100% 100%;
+  height: 505px;
+  position: relative;
+  width: 1731px;
+}
+
+.artists-all-breakpoints .mask-group {
+  height: 505px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1731px;
+}
+
+.artists-all-breakpoints .overlap-group-1 {
+  height: 146px;
+  left: 85px;
+  position: absolute;
+  top: 300px;
+  width: 270px;
+}
+
+.artists-all-breakpoints .vector-20-1 {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 270px;
+}
+
+.artists-all-breakpoints .heading-1 {
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 145.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.artists-all-breakpoints .vector-19 {
+  height: 14px;
+  left: 89px;
+  position: absolute;
+  top: 394px;
+  width: 186px;
+}
+
+.artists-all-breakpoints .menu {
+  background-color: var(--black-2);
+  display: flex;
+  height: 96px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.artists-all-breakpoints .logo-1 {
+  height: 64.54px;
+  margin-left: 33px;
+  margin-top: 16px;
+  width: 91px;
+}
+
+.artists-all-breakpoints .frame-329 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  height: 40px;
+  margin-left: 163px;
+  margin-top: 28px;
+  position: relative;
+  width: 483px;
+}
+
+.artists-all-breakpoints .menu-button {
+  align-items: flex-start;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .secondary-button {
+  align-items: center;
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--white);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  margin-left: 334px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 272px;
+}
+
+.artists-all-breakpoints .icon-search-1 {
+  height: 27px;
+  min-width: 27px;
+  position: relative;
+}
+
+.artists-all-breakpoints .text-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .primary-button-icon {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  justify-content: center;
+  margin-left: 37px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 159px;
+}
+
+.artists-all-breakpoints .frame-328 {
+  align-items: center;
+  background-color: var(--dune);
+  display: flex;
+  gap: 12px;
+  height: 48px;
+  justify-content: center;
+  margin-left: 23px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 89px;
+}
+
+.artists-all-breakpoints .cz {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .icon-1 {
+  height: 7.95px;
+  min-width: 15.17px;
+  position: relative;
+}
+
+.artists-all-breakpoints .flex-row-2 {
+  gap: 250px;
+  margin-right: 40.0px;
+  margin-top: 153px;
+  min-width: 756px;
+}
+
+.artists-all-breakpoints .pavel-m-3 {
+  height: 297px;
+  object-fit: cover;
+  width: 253px;
+}
+
+.artists-all-breakpoints .tereza-r-3 {
+  height: 297px;
+  width: 253px;
+}
+
+.artists-all-breakpoints .frame-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 31px;
+  margin-right: 3.0px;
+  margin-top: 34px;
+  min-width: 981px;
+}
+
+.artists-all-breakpoints .frame-49 {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  height: 201px;
+  width: 475px;
+}
+
+.artists-all-breakpoints .jmno-pjmen-1 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 149px;
+  text-align: center;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.artists-all-breakpoints .lorem-ipsum-dolor-si-1 {
+  height: 143px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artists-all-breakpoints .primary-button-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 436px;
+  height: 60px;
+  margin-right: 16.0px;
+  margin-top: 22px;
+  min-width: 636px;
+}
+
+.artists-all-breakpoints .primary-button-2 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--neon-carrot);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .text-3 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .primary-button-1 {
+  align-items: center;
+  background-color: var(--neon-carrot);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .text-4 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .flex-row-3 {
+  gap: 262px;
+  margin-right: 12.0px;
+  margin-top: 56px;
+  min-width: 768px;
+}
+
+.artists-all-breakpoints .karol-k-3 {
+  height: 297px;
+  width: 253px;
+}
+
+.artists-all-breakpoints .jirka {
+  height: 298px;
+  object-fit: cover;
+  width: 253px;
+}
+
+.artists-all-breakpoints .frame-container-1 {
+  gap: 56px;
+  margin-left: 14.0px;
+  margin-top: 42px;
+  min-width: 1006px;
+}
+
+.artists-all-breakpoints .primary-button-container-1 {
+  gap: 449px;
+  margin-right: 3.0px;
+  margin-top: 25px;
+  min-width: 649px;
+}
+
+.artists-all-breakpoints .text-5 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .text-6 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .flex-row-4 {
+  gap: 283px;
+  height: 305px;
+  margin-left: 9.0px;
+  margin-top: 16px;
+  min-width: 789px;
+}
+
+.artists-all-breakpoints .ales-p-2 {
+  align-self: flex-end;
+  height: 297px;
+  object-fit: cover;
+  width: 253px;
+}
+
+.artists-all-breakpoints .frame-container-2 {
+  gap: 73px;
+  height: 212px;
+  margin-left: 39.0px;
+  margin-top: 81px;
+  min-width: 1023px;
+}
+
+.artists-all-breakpoints .frame-493 {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  height: 201px;
+  width: 475px;
+}
+
+.artists-all-breakpoints .primary-button-container-2 {
+  gap: 452px;
+  margin-top: 32px;
+  min-width: 652px;
+}
+
+.artists-all-breakpoints .text-7 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .text-8 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .ambasadoi {
+  align-self: flex-start;
+  height: 836px;
+  margin-left: -28px;
+  margin-top: 147px;
+  width: 1778px;
+}
+
+.artists-all-breakpoints .footer {
+  align-items: center;
+  background-color: transparent;
+  background-image: url(../img/vector-112.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  gap: 63px;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 969px;
+  min-height: 627px;
+  padding: 30.2px 0;
+  width: 1770px;
+}
+
+.artists-all-breakpoints .flex-row-5 {
+  height: 176px;
+  margin-right: 102.43px;
+  margin-top: 295px;
+  min-width: 1045px;
+}
+
+.artists-all-breakpoints .group {
+  align-self: flex-end;
+  height: 157px;
+  margin-bottom: 0;
+  width: 53px;
+}
+
+.artists-all-breakpoints .frame-358 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 253px;
+  position: relative;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .poradna-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .frame-359 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 204px;
+  position: relative;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .lifestyle-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .gear-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 57px;
+  margin-left: 195px;
+  min-height: 168px;
+  width: 169px;
+}
+
+.artists-all-breakpoints .socials-1 {
+  align-items: center;
+  display: flex;
+  gap: 26px;
+  justify-content: center;
+  min-width: 146px;
+}
+
+.artists-all-breakpoints .icon {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.artists-all-breakpoints .text-9 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 169px;
+}
+
+.artists-all-breakpoints .button-base {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: -0.03px;
+  position: relative;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .text-10 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 32px;
+  width: 1147px;
+}
+
+.artists-all-breakpoints .vector-53-1 {
+  height: 1px;
+  object-fit: cover;
+  width: 1147px;
+}
+
+.artists-all-breakpoints .flex-row-6 {
+  gap: 748px;
+  height: 25px;
+  margin-left: 0;
+  min-width: 1105px;
+}
+
+.artists-all-breakpoints .frame-380 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  position: relative;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .flex-row {
+  align-items: flex-start;
+  display: flex;
+}
+
+.artists-all-breakpoints .frame-container-3 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.artists-all-breakpoints .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-all-breakpoints .primary-button-container-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+}
+/* screen - artists-mobile */
+
+.artists-mobile {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3066px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.artists-mobile .group-23 {
+  align-self: flex-start;
+  height: 583px;
+  margin-left: -7813.49px;
+  margin-top: -9970px;
+  width: 522px;
+}
+
+.artists-mobile .menu-phone {
+  align-items: center;
+  background-color: var(--black-2);
+  display: flex;
+  height: 72px;
+  margin-top: 9387px;
+  padding: 0 21px;
+  width: 428px;
+}
+
+.artists-mobile .logo {
+  height: 48px;
+  width: 68px;
+}
+
+.artists-mobile .icon-search {
+  height: 36px;
+  margin-left: 218px;
+  margin-top: 4.0px;
+  width: 36px;
+}
+
+.artists-mobile .group-247 {
+  height: 23px;
+  margin-left: 27px;
+  width: 36px;
+}
+
+.artists-mobile .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 59px;
+  height: 108px;
+  margin-left: 5.97px;
+  margin-top: 16px;
+  min-width: 370px;
+}
+
+.artists-mobile .group-24 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-height: 94px;
+  width: 83px;
+}
+
+.artists-mobile .overlap-group1 {
+  height: 88px;
+  margin-left: 0.03px;
+  position: relative;
+  width: 81px;
+}
+
+.artists-mobile .vector-21 {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 46px;
+  width: 81px;
+}
+
+.artists-mobile .heading {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 145.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.artists-mobile .vector-20 {
+  height: 5px;
+  width: 48px;
+}
+
+.artists-mobile .njak-textek-o-ar {
+  align-self: flex-end;
+  color: var(--black);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26.3px;
+  min-height: 72px;
+  width: 228px;
+}
+
+.artists-mobile .artist_karta-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 21px;
+  height: 362px;
+  margin-left: 19.0px;
+  margin-top: 10px;
+  min-width: 383px;
+}
+
+.artists-mobile .artist_karta {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 358px;
+  padding: 0.0px 15px;
+  width: 181px;
+}
+
+.artists-mobile .jmno-pjmen {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 18.0px;
+  margin-top: 15px;
+  min-width: 79px;
+  white-space: nowrap;
+}
+
+.artists-mobile .lorem-ipsum-dolor-si {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 4px;
+  min-height: 76px;
+  text-align: center;
+  width: 142px;
+}
+
+.artists-mobile .primary-button {
+  align-items: center;
+  background-color: var(--neon-carrot);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 35px;
+  justify-content: center;
+  margin-right: 13.87px;
+  margin-top: 17px;
+  padding: 8px 16px;
+  position: relative;
+  width: 91px;
+}
+
+.artists-mobile .text {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -1.68px;
+  margin-left: -4.44px;
+  margin-top: -3.68px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-mobile .artist_karta-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 358px;
+  padding: 0.0px 15px;
+  width: 181px;
+}
+
+.artists-mobile .artist_karta-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 21px;
+  height: 362px;
+  margin-left: 19.0px;
+  margin-top: 28px;
+  min-width: 383px;
+}
+
+.artists-mobile .tady-doplnit-bootstrap-carousel-plz {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 26.0px;
+  margin-top: 63px;
+  min-width: 148px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.artists-mobile .footer-phone {
+  align-items: flex-start;
+  display: flex;
+  height: 552px;
+  margin-top: 1089px;
+  min-width: 428px;
+  padding: 0.0px 0;
+}
+
+.artists-mobile .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/vector-23.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 546px;
+  padding: 16.0px 19px;
+  width: 428px;
+}
+
+.artists-mobile .frame-378 {
+  align-items: flex-start;
+  gap: 88px;
+  margin-left: 29.5px;
+  margin-top: 144px;
+}
+
+.artists-mobile .frame-35 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.artists-mobile .poradna {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-mobile .od-vs {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-mobile .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-mobile .struny {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-mobile .lifestyle {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-mobile .gear {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-mobile .socials {
+  align-items: center;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  margin-left: 1px;
+  margin-top: 48px;
+  min-width: 143px;
+}
+
+.artists-mobile .social-icon {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.artists-mobile .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 121px;
+  height: 24px;
+  margin-top: 40px;
+  min-width: 330px;
+}
+
+.artists-mobile .vector-53 {
+  align-self: center;
+  height: 1px;
+  margin-right: 0.5px;
+  margin-top: 16px;
+  object-fit: cover;
+  width: 388px;
+}
+
+.artists-mobile .frame-379 {
+  align-items: center;
+  align-self: flex-end;
+  gap: 37px;
+  margin-right: 21.5px;
+  margin-top: 10px;
+}
+
+.artists-mobile .text-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 202px;
+}
+
+.artists-mobile .copyright {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artists-mobile .frame {
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+@media screen and (max-width: 1769px) {
+  .screen.artists-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1770px) {
+  .screen.artists-mobile { 
+    display: none;
+   }
+}

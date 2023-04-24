@@ -1,0 +1,553 @@
+/* screen - category-mobile-2 */
+
+.category-mobile-2 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3624px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.category-mobile-2 .menu-phone {
+  align-items: center;
+  background-color: var(--black-2);
+  display: flex;
+  height: 72px;
+  padding: 0 21px;
+  width: 428px;
+}
+
+.category-mobile-2 .logo {
+  height: 48px;
+  width: 68px;
+}
+
+.category-mobile-2 .icon-search {
+  height: 36px;
+  margin-left: 218px;
+  margin-top: 4.0px;
+  width: 36px;
+}
+
+.category-mobile-2 .group-247 {
+  height: 23px;
+  margin-left: 27px;
+  width: 36px;
+}
+
+.category-mobile-2 .frame-393 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 21px;
+  margin-top: 48px;
+  position: relative;
+  width: fit-content;
+}
+
+.category-mobile-2 .heading {
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .lorem-ipsum-dolor-si {
+  color: var(--black);
+  font-family: var(--font-family-roboto-condensedregular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-right: 16.0px;
+  margin-top: 22px;
+  min-height: 119px;
+  text-align: center;
+  width: 362px;
+}
+
+.category-mobile-2 .drobeckova-navigace {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  gap: 8px;
+  margin-left: 20px;
+  margin-top: 91px;
+  padding: 16px 0px;
+  position: relative;
+  width: 184px;
+}
+
+.category-mobile-2 .union {
+  height: 18px;
+  min-width: 16px;
+  position: relative;
+}
+
+.category-mobile-2 .struny {
+  color: var(--black);
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .frame-container-1 {
+  align-self: flex-start;
+  gap: 65px;
+  height: 54px;
+  margin-left: 20px;
+  margin-top: 28px;
+  min-width: 329px;
+}
+
+.category-mobile-2 .acoustic_-bronze_sad {
+  height: 54px;
+  min-width: 90px;
+  object-fit: cover;
+  position: relative;
+}
+
+.category-mobile-2 .acoustic {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .electric {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .frame-container-2 {
+  align-self: flex-start;
+  gap: 81px;
+  height: 62px;
+  margin-left: 11px;
+  margin-top: 20px;
+  min-width: 318px;
+}
+
+.category-mobile-2 .classic {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .bass {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .frame-container-3 {
+  align-self: flex-start;
+  gap: 83px;
+  height: 56px;
+  margin-left: 2px;
+  margin-top: 26px;
+  min-width: 372px;
+}
+
+.category-mobile-2 .ukulele {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .psluenstv {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .frame-507 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 17.0px;
+  margin-top: 62px;
+  min-width: 323px;
+}
+
+.category-mobile-2 .overlap-group1 {
+  height: 36px;
+  position: relative;
+  width: 323px;
+}
+
+.category-mobile-2 .nejprodvanj {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -2.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .frame-509 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  margin-left: 4.0px;
+  margin-top: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.category-mobile-2 .group-244 {
+  background-color: var(--neon-carrot);
+  border-radius: 10px;
+  box-shadow: 0px 2.77px 2.21px #00000002 , 0px 6.65px 5.32px #00000008 , 0px 12.52px 10.02px #00000012 , 0px 22.34px 17.87px #00000020 , 0px 41.78px 33.42px #00000034 , 0px 100px 80px #0000005e;
+  display: flex;
+  height: 20px;
+  margin-top: 2px;
+  transform: rotate(90deg);
+  width: 20px;
+}
+
+.category-mobile-2 .frame-container-4 {
+  gap: 16px;
+  height: 159px;
+  margin-left: 4.0px;
+  margin-top: 64px;
+  min-width: 344px;
+}
+
+.category-mobile-2 .frame {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.category-mobile-2 .frame-314 {
+  background-image: url(../img/frame-314-32@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 83px;
+  min-width: 164px;
+  position: relative;
+}
+
+.category-mobile-2 .frame-345 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.category-mobile-2 .frame-308 {
+  height: 16px;
+  min-width: 80px;
+  position: relative;
+}
+
+.category-mobile-2 .address {
+  height: 21.82px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.category-mobile-2 .acoustic-12-st-bronze-10-47 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -3px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .price {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -3px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .frame-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 159px;
+  margin-left: 4.0px;
+  margin-top: 34px;
+  min-width: 344px;
+}
+
+.category-mobile-2 .group-252 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  margin-right: -714px;
+  margin-top: 544px;
+  min-height: 376px;
+  width: 1122px;
+}
+
+.category-mobile-2 .dal-doporuen-produkty {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 48px;
+  white-space: nowrap;
+}
+
+.category-mobile-2 .overlap-group {
+  height: 305px;
+  position: relative;
+  width: 1120px;
+}
+
+.category-mobile-2 .frame-350 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.category-mobile-2 .frame-308-1 {
+  min-width: 80px;
+}
+
+.category-mobile-2 .price-1 {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: relative;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.category-mobile-2 .frame-308-2 {
+  min-width: 71.5px;
+}
+
+.category-mobile-2 .frame-308-3 {
+  margin-right: -5404.50px;
+  margin-top: -5942.82px;
+  min-width: 80px;
+}
+
+.category-mobile-2 .frame-308-4 {
+  margin-right: -5119.50px;
+  margin-top: -5942.82px;
+  min-width: 80px;
+}
+
+.category-mobile-2 .group-243 {
+  background-color: var(--neon-carrot);
+  border-radius: 25.5px;
+  box-shadow: 0px 2.77px 2.21px #00000002 , 0px 6.65px 5.32px #00000008 , 0px 12.52px 10.02px #00000012 , 0px 22.34px 17.87px #00000020 , 0px 41.78px 33.42px #00000034 , 0px 100px 80px #0000005e;
+  display: flex;
+  height: 51px;
+  left: 345px;
+  position: absolute;
+  top: 74px;
+  width: 51px;
+}
+
+.category-mobile-2 .icon {
+  height: 19.87px;
+  margin-left: 21px;
+  margin-top: 16px;
+  width: 13px;
+}
+
+.category-mobile-2 .footer-phone {
+  align-items: flex-start;
+  background-image: url(../img/vector-1.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+  min-height: 552px;
+  padding: 22.0px 19px;
+  width: 428px;
+}
+
+.category-mobile-2 .frame-378 {
+  align-items: flex-start;
+  display: flex;
+  gap: 88px;
+  margin-left: 29.5px;
+  margin-top: 138px;
+  position: relative;
+  width: fit-content;
+}
+
+.category-mobile-2 .frame-35 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.category-mobile-2 .poradna {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .od-vs {
+  text-decoration: underline;
+}
+
+.category-mobile-2 .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .lifestyle {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .gear {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .socials {
+  align-items: flex-start;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  margin-left: 1px;
+  margin-top: 48px;
+  min-width: 143px;
+}
+
+.category-mobile-2 .social-icon {
+  cursor: pointer;
+  height: 31px;
+  margin-top: 0;
+  width: 31px;
+}
+
+.category-mobile-2 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 121px;
+  height: 24px;
+  margin-top: 40px;
+  min-width: 330px;
+}
+
+.category-mobile-2 .vector-53 {
+  align-self: center;
+  height: 1px;
+  margin-right: 0.5px;
+  margin-top: 16px;
+  object-fit: cover;
+  width: 388px;
+}
+
+.category-mobile-2 .frame-379 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  margin-right: 21.5px;
+  margin-top: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.category-mobile-2 .text {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 202px;
+}
+
+.category-mobile-2 .copyright {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.category-mobile-2 .frame-308-5 {
+  height: 17.45px;
+  position: relative;
+}
+
+.category-mobile-2 .frame-container-5 {
+  align-items: flex-start;
+  display: flex;
+}

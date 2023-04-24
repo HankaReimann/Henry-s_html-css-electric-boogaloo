@@ -1,0 +1,758 @@
+/* screen - product-detail-phone-recenze-open */
+
+.product-detail-phone-recenze-open {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3126px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.product-detail-phone-recenze-open .menu-phone {
+  align-items: center;
+  background-color: var(--black-2);
+  display: flex;
+  height: 72px;
+  padding: 0 21px;
+  width: 428px;
+}
+
+.product-detail-phone-recenze-open .logo {
+  height: 48px;
+  width: 68px;
+}
+
+.product-detail-phone-recenze-open .frame {
+  height: 36px;
+  margin-left: 218px;
+  margin-top: 4.0px;
+  width: 36px;
+}
+
+.product-detail-phone-recenze-open .group-247 {
+  height: 23px;
+  margin-left: 27px;
+  width: 36px;
+}
+
+.product-detail-phone-recenze-open .drobeckova-navigace {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  margin-left: 1.0px;
+  margin-top: 16px;
+  padding: 16px 0px;
+  position: relative;
+  width: 387px;
+}
+
+.product-detail-phone-recenze-open .union {
+  height: 18px;
+  min-width: 16px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .text-12 {
+  line-height: 20px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-388 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  margin-top: 44px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-387 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 51px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-3-1 {
+  align-items: flex-start;
+}
+
+.product-detail-phone-recenze-open .acoustic-12-st-bronze-light-10-47 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .address-1 {
+  left: 111px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-decoration: underline;
+  top: 2px;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.product-detail-phone-recenze-open .frame-308 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 102px;
+}
+
+.product-detail-phone-recenze-open .frame-307 {
+  background-image: url(../img/frame-307-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 256px;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .group-238 {
+  display: flex;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .frame-313 {
+  align-items: flex-start;
+  display: flex;
+  gap: 9.02px;
+  height: 90.23px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .frame-310 {
+  background-image: url(../img/frame-310-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90.23px;
+  min-width: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .frame-311 {
+  background-image: url(../img/frame-311-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90.23px;
+  min-width: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .frame-312 {
+  background-image: url(../img/frame-312-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90.23px;
+  min-width: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .frame-313-1 {
+  background-color: var(--baby-powder);
+  display: flex;
+  height: 90.23px;
+  justify-content: center;
+  min-width: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .x3-dal {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.9px;
+  margin-left: -18.9px;
+  margin-top: 36.7px;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.product-detail-phone-recenze-open .frame-36 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .sada-henrys-010 {
+  height: 96px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 387px;
+}
+
+.product-detail-phone-recenze-open .group-239 {
+  box-shadow: 0px 2.77px 2.21px #00000005 , 0px 6.65px 5.32px #00000007 , 0px 12.52px 10.02px #00000009 , 0px 22.34px 17.87px #0000000b , 0px 41.78px 33.42px #0000000d , 0px 100px 80px #00000012;
+  height: 48px;
+  min-width: 388px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .overlap-group {
+  height: 48px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .secondary-button {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  justify-content: center;
+  left: 0;
+  padding: 8px 16px;
+  position: absolute;
+  top: 0;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .text {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .icon {
+  height: 11px;
+  left: 354px;
+  position: absolute;
+  top: 20px;
+  width: 18px;
+}
+
+.product-detail-phone-recenze-open .frame-363 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-362 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .price-1 {
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 64px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 226px;
+}
+
+.product-detail-phone-recenze-open .cena-v-dph {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.product-detail-phone-recenze-open .frame-334 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .frame-360 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .vector-39 {
+  margin-top: -0.50px;
+  min-width: 388px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .frame-333 {
+  align-items: flex-end;
+  display: flex;
+  gap: 22px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-3-2 {
+  align-items: center;
+}
+
+.product-detail-phone-recenze-open .group-24 {
+  background-color: var(--brandy-punch);
+  border: 1.44px solid;
+  border-color: var(--neon-carrot);
+  border-radius: 19.5px;
+  display: flex;
+  height: 39px;
+  justify-content: center;
+  min-width: 39px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .x3 {
+  height: 20.22px;
+  margin-left: 0;
+  margin-top: 8.7px;
+  width: 10.11px;
+}
+
+.product-detail-phone-recenze-open .x14 {
+  height: 17.33px;
+  margin-left: 0;
+  margin-top: 10.1px;
+  width: 15.89px;
+}
+
+.product-detail-phone-recenze-open .frame-377 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-shadow: 0px 1.51px 1.23px #00000004 , 0px 3.5px 2.86px #00000006 , 0px 6.29px 5.13px #00000007 , 0px 10.44px 8.51px #00000009 , 0px 17.19px 14.02px #0000000a , 0px 30.05px 24.5px #0000000b , 0px 65px 53px #0000000d;
+  display: flex;
+  gap: 18px;
+  padding: 16px 20px 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-375 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-351 {
+  align-items: center;
+  background-color: var(--white);
+  border-color: var(--neon-carrot);
+  border-top-style: solid;
+  border-top-width: 6px;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 20px 16px 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .popis-produktu {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -6.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .icon-1 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .frame-351-1 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 20px 16px 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .icon-2 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .frame-356 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  justify-content: space-between;
+  margin-top: 440px;
+  padding: 16px 20px 16px 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .icon-3 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .frame-35 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+  padding: 16px 20px 16px 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .icon-4 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .psluenstv {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .icon-5 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .group-252 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  margin-right: -719px;
+  margin-top: 72px;
+  min-height: 376px;
+  width: 1122px;
+}
+
+.product-detail-phone-recenze-open .dal-doporuen-produkty {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 48px;
+  white-space: nowrap;
+}
+
+.product-detail-phone-recenze-open .overlap-group1 {
+  height: 305px;
+  position: relative;
+  width: 1120px;
+}
+
+.product-detail-phone-recenze-open .frame-350 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-314 {
+  background-image: url(../img/frame-314@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  min-width: 265px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .frame-345 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-308-1 {
+  min-width: 80px;
+}
+
+.product-detail-phone-recenze-open .address {
+  height: 21.82px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.product-detail-phone-recenze-open .acoustic-12-st-bronze-10-47 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .price {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: relative;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.product-detail-phone-recenze-open .frame-308-2 {
+  min-width: 66.5px;
+}
+
+.product-detail-phone-recenze-open .frame-308-3 {
+  margin-left: -3164.50px;
+  margin-top: -572.82px;
+  min-width: 80px;
+}
+
+.product-detail-phone-recenze-open .frame-308-4 {
+  margin-left: -3449.50px;
+  margin-top: -572.82px;
+  min-width: 80px;
+}
+
+.product-detail-phone-recenze-open .group-243 {
+  background-color: var(--neon-carrot);
+  border-radius: 25.5px;
+  box-shadow: 0px 2.77px 2.21px #00000002 , 0px 6.65px 5.32px #00000008 , 0px 12.52px 10.02px #00000012 , 0px 22.34px 17.87px #00000020 , 0px 41.78px 33.42px #00000034 , 0px 100px 80px #0000005e;
+  display: flex;
+  height: 51px;
+  left: 345px;
+  position: absolute;
+  top: 74px;
+  width: 51px;
+}
+
+.product-detail-phone-recenze-open .icon-6 {
+  height: 19.87px;
+  margin-left: 21px;
+  margin-top: 16.0px;
+  width: 13px;
+}
+
+.product-detail-phone-recenze-open .footer-phone {
+  align-items: flex-start;
+  background-image: url(../img/vector-1.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 110px;
+  min-height: 552px;
+  padding: 22.0px 19px;
+  width: 428px;
+}
+
+.product-detail-phone-recenze-open .frame-378 {
+  align-items: flex-start;
+  display: flex;
+  gap: 88px;
+  margin-left: 29.5px;
+  margin-top: 138px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-35-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .poradna {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .od-vs {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .struny {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .lifestyle {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .gear {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .socials {
+  align-items: center;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  margin-left: 1px;
+  margin-top: 48px;
+  min-width: 143px;
+}
+
+.product-detail-phone-recenze-open .social-icon {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.product-detail-phone-recenze-open .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 121px;
+  height: 24px;
+  margin-top: 40px;
+  min-width: 330px;
+}
+
+.product-detail-phone-recenze-open .vector-53 {
+  align-self: center;
+  margin-right: 0.5px;
+  margin-top: 16px;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open .frame-379 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  margin-right: 21.5px;
+  margin-top: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .text-1 {
+  line-height: 16px;
+  width: 202px;
+}
+
+.product-detail-phone-recenze-open .copyright {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-3-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open .frame-308-5 {
+  height: 17.45px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .text-2 {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open .vector {
+  height: 1px;
+  object-fit: cover;
+}

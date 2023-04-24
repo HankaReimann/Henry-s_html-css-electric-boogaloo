@@ -1,0 +1,1029 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Bebas+Neue:400");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/643f9fe2d08f941208d32d73.643f9fe30a8d179fee094413.3uBiDL6.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.auto-animated div {
+  --z-index: -1;
+  opacity: 0;
+  position: absolute;
+}
+
+.auto-animated input {
+  --z-index: -1;
+  opacity: 0;
+  position: absolute;
+}
+
+.auto-animated .container-center-vertical,
+.auto-animated .container-center-horizontal {
+  opacity: 1;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.listeners-active,
+.listeners-active * {
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.listeners-active-click,
+.listeners-active-click * {
+  cursor: pointer;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.chevron-right {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.nzev {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-394 {
+  align-items: flex-start;
+  display: flex;
+  gap: 114px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-381 {
+  align-items: flex-start;
+  display: flex;
+  gap: 115px;
+  position: relative;
+  width: fit-content;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 499.91px;
+  min-width: 550px;
+  position: relative;
+}
+
+.frame-327 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-319 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.group-237 {
+  height: 24px;
+  min-width: 187px;
+  position: relative;
+}
+
+.zobrazit-cel-popis {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-384 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.vyberte-variantu {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 118px;
+}
+
+.frame-324 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-323 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.zruka-3-roky {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mete-vrtit-do-14-dn {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-330 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  position: relative;
+  width: fit-content;
+}
+
+.e {
+  height: 21.67px;
+  margin-left: -0.6px;
+  margin-top: 8.7px;
+  width: 9.48px;
+}
+
+.ko-v-sad-navc {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.foto-video {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tipy-triky {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-344 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.rychl-odkazy {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nae-produkty-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-380-item {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pro {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nzev-p {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.group-248 {
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 357.23px;
+  min-width: 388px;
+  position: relative;
+}
+
+.vce-variant-produktu {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 118px;
+}
+
+.smluvn-podmnky {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 84px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.zpracovn-osobnch-daj {
+  letter-spacing: 0;
+  line-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.union-1 {
+  height: 18px;
+  min-width: 16px;
+  position: relative;
+}
+
+.chevron-right-1 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.x3-dal-1 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -26.1px;
+  margin-top: 52px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.frame-319-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.group-237-1 {
+  height: 24px;
+  min-width: 187px;
+  position: relative;
+}
+
+.address-3 {
+  left: 111px;
+  position: absolute;
+  top: 2px;
+}
+
+.cena-v-dph-1 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.frame-334-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-333-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 40px;
+  position: relative;
+  width: fit-content;
+}
+
+.benefit_iconczende {
+  background-color: var(--brandy-punch);
+  border: 1.44px solid;
+  border-color: var(--neon-carrot);
+  border-radius: 19.5px;
+  display: flex;
+  height: 39px;
+  justify-content: center;
+  min-width: 39px;
+  position: relative;
+}
+
+.zruka-3-roky-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mete-vrtit-do-14-dn-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-330-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  position: relative;
+  width: fit-content;
+}
+
+.benefit_iconczende-1 {
+  height: 39px;
+  min-width: 39px;
+  position: relative;
+}
+
+.ko-v-sad-navc-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-314-1 {
+  background-image: url(../img/frame-314@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  min-width: 265px;
+  position: relative;
+}
+
+.frame-345-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-344-1 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.acoustic-12-st-bronze-10-47-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.rychl-odkazy-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pro-zatenky-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pro-profesionly-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.od-vs-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nae-produkty-2 {
+  margin-top: -1.00px;
+}
+
+.struny-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nae-produkty-3 {
+  text-decoration: underline;
+}
+
+.copyright-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 111px;
+  white-space: nowrap;
+}
+
+.placeholder {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.group-249 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 103px;
+  margin-top: 9px;
+  min-width: 168px;
+}
+
+.icon-cart {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.frame-371 {
+  align-items: flex-start;
+  background-color: var(--rose);
+  border-radius: 20px;
+  display: flex;
+  gap: 16px;
+  left: 144px;
+  padding: 7px 6px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.group-24-1 {
+  background-color: var(--brandy-punch);
+  border: 1.44px solid;
+  border-color: var(--neon-carrot);
+  border-radius: 19.5px;
+  display: flex;
+  height: 39px;
+  justify-content: center;
+  min-width: 39px;
+  position: relative;
+}
+
+.e-1 {
+  height: 21.67px;
+  margin-left: -0.6px;
+  margin-top: 8.7px;
+  width: 9.48px;
+}
+
+.frame-37 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-374 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: fit-content;
+}
+
+.hlavn-headline {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x12-s-tsmall-1 {
+  height: 152px;
+  min-width: 388px;
+  object-fit: cover;
+  position: relative;
+}
+
+.technick-specifikace {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tvrdost-010047-v {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: 388px;
+}
+
+.frame-511 {
+  display: flex;
+  height: 146px;
+  left: 21px;
+  position: absolute;
+  top: 104px;
+  width: 220px;
+}
+
+.pavel-m-4 {
+  height: 160px;
+  margin-right: 9.0px;
+  margin-top: 27px;
+  object-fit: cover;
+  width: 120px;
+}
+
+.akar-icons {
+  height: 20px;
+  margin-top: 3px;
+  width: 20px;
+}
+
+.frame-395 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.drobeckova-navigace-item {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-469 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 65px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-467 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 1120.25px;
+}
+
+.frame-392 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.rectangle-542 {
+  min-width: 122px;
+}
+
+.frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-4-1 {
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.frame-4-2 {
+  align-items: center;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.group-261 {
+  height: 56px;
+  min-width: 835.12px;
+  position: relative;
+}
+
+.frame-450 {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.od-nejlevnjho {
+  margin-top: -1.00px;
+}
+
+.od-nejdraho {
+  margin-top: -1.00px;
+}
+
+.podle-hodnocen {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.vector-60 {
+  left: 0;
+  position: absolute;
+  top: 56px;
+  width: 835px;
+}
+
+.frame-34 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.textual-1 {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.textual {
+  align-items: center;
+  background-color: var(--neon-carrot);
+  display: flex;
+  justify-content: center;
+  padding: 12px 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.pages {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.page-1 {
+  border: 1px solid;
+  border-color: var(--neon-carrot);
+  height: 48px;
+  min-width: 48px;
+  position: relative;
+}
+
+.x {
+  height: 26px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.page {
+  border-radius: 2px;
+  height: 48px;
+  min-width: 48px;
+  overflow: hidden;
+  position: relative;
+}
+
+.group-260 {
+  height: 304.82px;
+  min-width: 1244px;
+  position: relative;
+}
+
+.frame-4-3 {
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.od {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.placeholder-5 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x-5 {
+  height: 26px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.rectangle-54 {
+  background-color: var(--black-2);
+  height: 8px;
+  min-width: 74px;
+  position: relative;
+}
+
+.frame-393-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-46 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-46-1 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-503 {
+  align-items: center;
+  background-color: var(--black);
+  border-color: var(--neon-carrot);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 0;
+  padding: 6px 12px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.frame-504 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 82px;
+  padding: 6px 12px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.od-nejlevnjch {
+  margin-top: -1.00px;
+}
+
+.frame-505 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 166px;
+  padding: 6px 12px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.od-nejdrach {
+  margin-top: -1.00px;
+}
+
+.frame-506 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 244px;
+  padding: 6px 12px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.line-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 323px;
+}
+
+.frame-508 {
+  background-color: var(--black);
+  display: flex;
+  gap: 48px;
+  height: 24px;
+  min-width: 184px;
+  position: relative;
+}
+
+.otevt-filtr {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 71px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.icon-heart {
+  height: 7.53px;
+  margin-left: 5.7px;
+  margin-top: 6.4px;
+  transform: rotate(-90deg);
+  width: 10.22px;
+}

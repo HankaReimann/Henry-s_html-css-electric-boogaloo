@@ -1,0 +1,2980 @@
+/* screen - product-detail-phone-recenze-open-2 */
+
+.product-detail-phone-recenze-open-2 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3126px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.product-detail-phone-recenze-open-2 .menu-phone-1 {
+  align-items: center;
+  background-color: var(--black-2);
+  display: flex;
+  height: 72px;
+  padding: 0 21px;
+  width: 428px;
+}
+
+.product-detail-phone-recenze-open-2 .logo-1 {
+  height: 48px;
+  width: 68px;
+}
+
+.product-detail-phone-recenze-open-2 .icon-search-1 {
+  height: 36px;
+  margin-left: 218px;
+  margin-top: 4.0px;
+  width: 36px;
+}
+
+.product-detail-phone-recenze-open-2 .group-247-2 {
+  height: 23px;
+  margin-left: 27px;
+  width: 36px;
+}
+
+.product-detail-phone-recenze-open-2 .drobeckova-navigace-2 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  margin-left: 1.0px;
+  margin-top: 16px;
+  padding: 16px 0px;
+  position: relative;
+  width: 387px;
+}
+
+.product-detail-phone-recenze-open-2 .union-2 {
+  height: 18px;
+  min-width: 16px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .chevron-right-2 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .text-4-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-388 {
+  align-items: center;
+  flex-direction: column;
+  gap: 52px;
+  margin-top: 44px;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-387 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 51px;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-3-3 {
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-319-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-3-4 {
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.product-detail-phone-recenze-open-2 .acoustic-12-st-bronze-light-10-47-2 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open-2 .group-237-2 {
+  height: 24px;
+  min-width: 187px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .address-5 {
+  left: 111px;
+  position: absolute;
+  top: 2px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-308-5 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 102px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-307-2 {
+  background-image: url(../img/frame-307-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 256px;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open-2 .group-238-2 {
+  display: flex;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-313-4 {
+  align-items: flex-start;
+  gap: 9.02px;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-310-2 {
+  background-image: url(../img/frame-310-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90.23px;
+  min-width: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-311-2 {
+  background-image: url(../img/frame-311-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90.23px;
+  min-width: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-312-2 {
+  background-image: url(../img/frame-312-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90.23px;
+  min-width: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-313-5 {
+  background-color: var(--baby-powder);
+  justify-content: center;
+  min-width: 90.23px;
+}
+
+.product-detail-phone-recenze-open-2 .x3-dal-2 {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.9px;
+  margin-left: -18.9px;
+  margin-top: 36.7px;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-36 {
+  align-items: center;
+  flex-direction: column;
+  gap: 32px;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .sada-henrys-010-2 {
+  height: 96px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 387px;
+}
+
+.product-detail-phone-recenze-open-2 .zobrazit-cel-popis-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .group-239-2 {
+  box-shadow: 0px 2.77px 2.21px #00000005 , 0px 6.65px 5.32px #00000007 , 0px 12.52px 10.02px #00000009 , 0px 22.34px 17.87px #0000000b , 0px 41.78px 33.42px #0000000d , 0px 100px 80px #00000012;
+  height: 48px;
+  min-width: 388px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .overlap-group-5 {
+  height: 48px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open-2 .secondary-button-2 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  justify-content: center;
+  left: 0;
+  padding: 8px 16px;
+  position: absolute;
+  top: 0;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open-2 .text-6 {
+  line-height: 24px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .icon-7 {
+  height: 11px;
+  left: 354px;
+  position: absolute;
+  top: 20px;
+  width: 18px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-363 {
+  align-items: center;
+  flex-direction: column;
+  gap: 24px;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-362 {
+  align-items: center;
+  flex-direction: column;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .price-5 {
+  height: 56px;
+  line-height: 64px;
+  margin-top: -1.00px;
+  text-align: center;
+  width: 226px;
+}
+
+.product-detail-phone-recenze-open-2 .cena-v-dph-2 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-334-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-360 {
+  align-items: center;
+  flex-direction: column;
+  gap: 16px;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .vector-39-4 {
+  height: 1px;
+  margin-top: -0.50px;
+  min-width: 388px;
+  object-fit: cover;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-333-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 22px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-3-5 {
+  align-items: center;
+  gap: 8px;
+}
+
+.product-detail-phone-recenze-open-2 .x3-2 {
+  height: 20.22px;
+  margin-left: 0;
+  margin-top: 8.7px;
+  width: 10.11px;
+}
+
+.product-detail-phone-recenze-open-2 .zruka-3-roky-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .x14-2 {
+  height: 17.33px;
+  margin-left: 0;
+  margin-top: 10.1px;
+  width: 15.89px;
+}
+
+.product-detail-phone-recenze-open-2 .mete-vrtit-do-14-dn-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-330-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .ko-v-sad-navc-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-377 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-shadow: 0px 1.51px 1.23px #00000004 , 0px 3.5px 2.86px #00000006 , 0px 6.29px 5.13px #00000007 , 0px 10.44px 8.51px #00000009 , 0px 17.19px 14.02px #0000000a , 0px 30.05px 24.5px #0000000b , 0px 65px 53px #0000000d;
+  gap: 18px;
+  padding: 16px 20px 32px;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-375 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 24px;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-351-2 {
+  background-color: var(--white);
+  border-color: var(--neon-carrot);
+  border-top-style: solid;
+  border-top-width: 6px;
+}
+
+.product-detail-phone-recenze-open-2 .popis-produktu-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -6.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .icon-8 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-351-3 {
+  background-color: var(--gallery);
+}
+
+.product-detail-phone-recenze-open-2 .recenze-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .icon-9 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-356 {
+  align-items: center;
+  background-color: var(--gallery);
+  justify-content: space-between;
+  margin-top: 440px;
+  padding: 16px 20px 16px 16px;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open-2 .foto-video-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .icon-10 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-35-2 {
+  align-items: center;
+  background-color: var(--gallery);
+  justify-content: space-between;
+  margin-top: 16px;
+  padding: 16px 20px 16px 16px;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open-2 .tipy-triky-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .icon-11 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .psluenstv-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .icon-12 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .group-252-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  margin-right: -719px;
+  margin-top: 72px;
+  min-height: 376px;
+  width: 1122px;
+}
+
+.product-detail-phone-recenze-open-2 .dal-doporuen-produkty-2 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 48px;
+  white-space: nowrap;
+}
+
+.product-detail-phone-recenze-open-2 .overlap-group1-2 {
+  height: 305px;
+  position: relative;
+  width: 1120px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-350-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-314-3 {
+  background-image: url(../img/frame-314@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  min-width: 265px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-345-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-344-2 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-308-6 {
+  height: 17.45px;
+  min-width: 80px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .address-4 {
+  height: 21.82px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .acoustic-12-st-bronze-10-47-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .price-4 {
+  height: 27px;
+  line-height: 32px;
+  width: 69px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-308-7 {
+  height: 17.45px;
+  min-width: 66.5px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-308-8 {
+  height: 17.45px;
+  margin-left: -3164.50px;
+  margin-top: -572.82px;
+  min-width: 80px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-308-9 {
+  height: 17.45px;
+  margin-left: -3449.50px;
+  margin-top: -572.82px;
+  min-width: 80px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .group-243-4 {
+  background-color: var(--neon-carrot);
+  border-radius: 25.5px;
+  box-shadow: 0px 2.77px 2.21px #00000002 , 0px 6.65px 5.32px #00000008 , 0px 12.52px 10.02px #00000012 , 0px 22.34px 17.87px #00000020 , 0px 41.78px 33.42px #00000034 , 0px 100px 80px #0000005e;
+  display: flex;
+  height: 51px;
+  left: 345px;
+  position: absolute;
+  top: 74px;
+  width: 51px;
+}
+
+.product-detail-phone-recenze-open-2 .icon-13 {
+  height: 19.87px;
+  margin-left: 21px;
+  margin-top: 16.0px;
+  width: 13px;
+}
+
+.product-detail-phone-recenze-open-2 .footer-phone {
+  align-items: flex-start;
+  background-image: url(../img/vector-1.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 110px;
+  min-height: 552px;
+  padding: 22.0px 19px;
+  width: 428px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-378 {
+  align-items: flex-start;
+  gap: 88px;
+  margin-left: 29.5px;
+  margin-top: 138px;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-35-3 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 12px;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .rychl-odkazy-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .poradna-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .pro-zatenky-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .pro-profesionly-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .od-vs-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .nae-produkty-4 {
+  margin-top: -1.00px;
+}
+
+.product-detail-phone-recenze-open-2 .struny-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .lifestyle-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .gear-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .nae-produkty-5 {
+  text-decoration: underline;
+}
+
+.product-detail-phone-recenze-open-2 .socials-2 {
+  align-items: center;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  margin-left: 1px;
+  margin-top: 48px;
+  min-width: 143px;
+}
+
+.product-detail-phone-recenze-open-2 .social-icon-1 {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.product-detail-phone-recenze-open-2 .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 121px;
+  height: 24px;
+  margin-top: 40px;
+  min-width: 330px;
+}
+
+.product-detail-phone-recenze-open-2 .vector-53-2 {
+  align-self: center;
+  height: 1px;
+  margin-right: 0.5px;
+  margin-top: 16px;
+  object-fit: cover;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open-2 .frame-379 {
+  align-items: center;
+  align-self: flex-end;
+  gap: 37px;
+  margin-right: 21.5px;
+  margin-top: 10px;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .text-7 {
+  line-height: 16px;
+  margin-top: -1.00px;
+  width: 202px;
+}
+
+.product-detail-phone-recenze-open-2 .copyright-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .address {
+  letter-spacing: 0;
+  line-height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.product-detail-phone-recenze-open-2 .frame {
+  display: flex;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-3 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .frame-313 {
+  display: flex;
+  height: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-35 {
+  display: flex;
+  position: relative;
+}
+
+.product-detail-phone-recenze-open-2 .frame-351 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 20px 16px 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-recenze-open-2 .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-recenze-open-2 .price {
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.product-detail-phone-recenze-open-2 .text {
+  letter-spacing: 0;
+  position: relative;
+}
+/* screen - recenze-open */
+
+.recenze-open {
+  align-items: center;
+  background-color: #20a60a;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2710px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.recenze-open .overlap-group3 {
+  height: 580px;
+  margin-top: 168px;
+  position: relative;
+  width: 1120px;
+}
+
+.recenze-open .rectangle-541 {
+  height: 6px;
+  left: 186px;
+  position: absolute;
+  top: 42px;
+  width: 104px;
+}
+
+.recenze-open .frame-396 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.recenze-open .drobeckova-navigace {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  padding: 16px 0px;
+  position: relative;
+  width: 1120px;
+}
+
+.recenze-open .union {
+  height: 18px;
+  min-width: 16px;
+  position: relative;
+}
+
+.recenze-open .frame-307 {
+  background-image: url(../img/frame-307.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 360px;
+  width: 550px;
+}
+
+.recenze-open .group-238 {
+  display: flex;
+  width: 550px;
+}
+
+.recenze-open .frame-313 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12.79px;
+  height: 127.91px;
+  position: relative;
+  width: 550px;
+}
+
+.recenze-open .frame-310 {
+  background-image: url(../img/frame-310@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127.91px;
+  min-width: 127.91px;
+  position: relative;
+}
+
+.recenze-open .frame-311 {
+  background-image: url(../img/frame-311@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127.91px;
+  min-width: 127.91px;
+  position: relative;
+}
+
+.recenze-open .frame-312 {
+  background-image: url(../img/frame-312@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127.91px;
+  min-width: 127.91px;
+  position: relative;
+}
+
+.recenze-open .frame-313-1 {
+  background-color: var(--baby-powder);
+  display: flex;
+  height: 127.91px;
+  justify-content: center;
+  min-width: 127.91px;
+  position: relative;
+}
+
+.recenze-open .x3-dal {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -26.1px;
+  margin-top: 52px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.recenze-open .frame-335 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .acoustic-12-st-bronze-light-10-47 {
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 455px;
+}
+
+.recenze-open .address-1 {
+  left: 111px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-decoration: underline;
+  top: 2px;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.recenze-open .frame-308-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.recenze-open .icon-star {
+  height: 20.4px;
+  min-width: 20.4px;
+  position: relative;
+}
+
+.recenze-open .sada-henrys-010 {
+  height: 72px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: 455px;
+}
+
+.recenze-open .group-239 {
+  box-shadow: 0px 2.77px 2.21px #00000005 , 0px 6.65px 5.32px #00000007 , 0px 12.52px 10.02px #00000009 , 0px 22.34px 17.87px #0000000b , 0px 41.78px 33.42px #0000000d , 0px 100px 80px #00000012;
+  height: 48px;
+  min-width: 455px;
+  position: relative;
+}
+
+.recenze-open .overlap-group {
+  height: 48px;
+  position: relative;
+  width: 455px;
+}
+
+.recenze-open .secondary-button {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  justify-content: space-around;
+  left: 0;
+  padding: 8px 16px;
+  position: absolute;
+  top: 0;
+  width: 455px;
+}
+
+.recenze-open .text {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open .icon {
+  height: 11px;
+  left: 416px;
+  position: absolute;
+  top: 20px;
+  width: 21px;
+}
+
+.recenze-open .frame-325 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .price-1 {
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 64px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 226px;
+}
+
+.recenze-open .cena-v-dph {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.recenze-open .frame-334 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .vector-39 {
+  margin-top: -0.50px;
+  min-width: 454.5px;
+  position: relative;
+}
+
+.recenze-open .frame-333 {
+  align-items: flex-end;
+  display: flex;
+  gap: 40px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .frame-3-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .group-24 {
+  background-color: var(--brandy-punch);
+  border: 1.44px solid;
+  border-color: var(--neon-carrot);
+  border-radius: 19.5px;
+  display: flex;
+  height: 39px;
+  justify-content: center;
+  min-width: 39px;
+  position: relative;
+}
+
+.recenze-open .x3 {
+  height: 20.22px;
+  margin-left: 0;
+  margin-top: 8.7px;
+  width: 10.11px;
+}
+
+.recenze-open .x14 {
+  height: 17.33px;
+  margin-left: 0;
+  margin-top: 10.1px;
+  width: 15.89px;
+}
+
+.recenze-open .rectangle-543 {
+  background-color: var(--neon-carrot);
+  height: 6px;
+  margin-right: 795.0px;
+  margin-top: 181px;
+  width: 95px;
+}
+
+.recenze-open .group-252 {
+  align-items: flex-start;
+  align-self: flex-start;
+  box-shadow: 0px 1.51px 1.23px #00000004 , 0px 3.5px 2.86px #00000006 , 0px 6.29px 5.13px #00000007 , 0px 10.44px 8.51px #00000009 , 0px 17.19px 14.02px #0000000a , 0px 30.05px 24.5px #0000000b , 0px 65px 53px #0000000d;
+  display: flex;
+  min-width: 1746px;
+}
+
+.recenze-open .overlap-group1 {
+  height: 629px;
+  position: relative;
+  width: 1728px;
+}
+
+.recenze-open .overlap-group-1 {
+  height: 629px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.recenze-open .frame-357 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  left: 305px;
+  position: absolute;
+  top: 0;
+  width: 688px;
+}
+
+.recenze-open .frame-351 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .popis-produktu {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open .frame-352 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .frame-35 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .psluenstv {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open .rectangle-529 {
+  background-color: var(--white);
+  height: 575px;
+  left: 1px;
+  position: absolute;
+  top: 54px;
+  width: 1726px;
+}
+
+.recenze-open .vector-41 {
+  left: 452px;
+  position: absolute;
+  top: 54px;
+  width: 1276px;
+}
+
+.recenze-open .vector-39-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 306px;
+}
+
+.recenze-open .ellipse-12 {
+  left: 371px;
+}
+
+.recenze-open .ellipse-13 {
+  left: 649px;
+}
+
+.recenze-open .ellipse-14 {
+  left: 927px;
+}
+
+.recenze-open .ellipse-15 {
+  left: 1205px;
+}
+
+.recenze-open .karel-novk {
+  left: 375px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 239px;
+  white-space: nowrap;
+  width: 114px;
+}
+
+.recenze-open .icon-star-1 {
+  left: 336px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-2 {
+  left: 614px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-3 {
+  left: 892px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-4 {
+  left: 1170px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-5 {
+  left: 377px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-6 {
+  left: 655px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-7 {
+  left: 933px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-8 {
+  left: 1211px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-9 {
+  left: 418px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-10 {
+  left: 696px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-11 {
+  left: 974px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-12 {
+  left: 1252px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-13 {
+  left: 459px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-14 {
+  left: 737px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-15 {
+  left: 1015px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-16 {
+  left: 1293px;
+  top: 278px;
+}
+
+.recenze-open .icon-star-17 {
+  left: 500px;
+  top: 277px;
+}
+
+.recenze-open .icon-star-18 {
+  left: 778px;
+  top: 277px;
+}
+
+.recenze-open .icon-star-19 {
+  left: 1056px;
+  top: 277px;
+}
+
+.recenze-open .icon-star-20 {
+  left: 1334px;
+  top: 277px;
+}
+
+.recenze-open .acoustic-12-st-bronzelight-10-47 {
+  left: 327px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 333px;
+  white-space: nowrap;
+  width: 218px;
+}
+
+.recenze-open .acoustic-12-st-bronzelight-10-47-1 {
+  left: 605px;
+}
+
+.recenze-open .acoustic-12-st-bronzelight-10-47-2 {
+  left: 883px;
+}
+
+.recenze-open .acoustic-12-st-bronzelight-10-47-3 {
+  left: 1161px;
+}
+
+.recenze-open .struny-henrys-bronz {
+  left: 307px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 373px;
+  width: 238px;
+}
+
+.recenze-open .struny-henrys-bronz-1 {
+  left: 585px;
+}
+
+.recenze-open .struny-henrys-bronz-2 {
+  left: 863px;
+}
+
+.recenze-open .struny-henrys-bronz-3 {
+  left: 1141px;
+}
+
+.recenze-open .group-252-1 {
+  align-items: center;
+  display: flex;
+  height: 369px;
+  margin-right: 62.0px;
+  margin-top: 124px;
+  min-width: 1246px;
+  padding: 0 0.0px;
+}
+
+.recenze-open .group-243 {
+  background-color: var(--neon-carrot);
+  border-radius: 25.5px;
+  display: flex;
+  height: 51px;
+  margin-top: 64.18px;
+  transform: rotate(-180.00deg);
+  width: 51px;
+}
+
+.recenze-open .icon-1 {
+  height: 19.87px;
+  margin-left: 21.0px;
+  margin-top: 15.0px;
+  transform: rotate(180.00deg);
+  width: 13px;
+}
+
+.recenze-open .flex-col {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-left: 10px;
+  min-height: 369px;
+  width: 1120px;
+}
+
+.recenze-open .dal-doporuen-produkty {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 1.0px;
+  min-width: 293px;
+  white-space: nowrap;
+}
+
+.recenze-open .frame-350 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .frame-314 {
+  background-image: url(../img/frame-314@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  min-width: 265px;
+  position: relative;
+}
+
+.recenze-open .frame-345 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .frame-308 {
+  height: 17.45px;
+  min-width: 80px;
+  position: relative;
+}
+
+.recenze-open .address {
+  height: 21.82px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.recenze-open .acoustic-12-st-bronze-10-47 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open .price {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: relative;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.recenze-open .group-243-1 {
+  background-color: var(--neon-carrot);
+  border-radius: 25.5px;
+  display: flex;
+  height: 51px;
+  margin-left: 12px;
+  margin-top: 64.18px;
+  width: 51px;
+}
+
+.recenze-open .icon-2 {
+  height: 19.87px;
+  margin-left: 21px;
+  margin-top: 16px;
+  width: 13px;
+}
+
+.recenze-open .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 627px;
+  justify-content: flex-end;
+  margin-right: 2.0px;
+  margin-top: 43px;
+  min-width: 1728px;
+  width: auto;
+}
+
+.recenze-open .flex-col-1 {
+  background-image: url(../img/vector.png);
+  background-size: 100% 100%;
+  gap: 63px;
+  min-height: 610px;
+  padding: 13.0px 303px;
+  width: 1727px;
+}
+
+.recenze-open .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 176px;
+  margin-top: 312px;
+  min-width: 1020px;
+}
+
+.recenze-open .group {
+  align-self: flex-end;
+  height: 157px;
+  width: 51px;
+}
+
+.recenze-open .frame-358 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 246px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .poradna {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open .od-vs {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open .frame-359 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 198px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open .struny {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open .lifestyle {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open .gear {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open .flex-col-2 {
+  align-self: flex-end;
+  gap: 57px;
+  margin-bottom: 0;
+  margin-left: 190px;
+  min-height: 168px;
+  width: 165px;
+}
+
+.recenze-open .socials {
+  align-items: flex-start;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  min-width: 143px;
+}
+
+.recenze-open .social-icon {
+  cursor: pointer;
+  height: 31px;
+  margin-top: 0;
+  width: 31px;
+}
+
+.recenze-open .text-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 165px;
+}
+
+.recenze-open .button-base {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .text-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .flex-col-3 {
+  gap: 6px;
+  min-height: 32px;
+  width: 1120px;
+}
+
+.recenze-open .vector-53 {
+  width: 1120px;
+}
+
+.recenze-open .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 724px;
+  height: 25px;
+  min-width: 1082px;
+}
+
+.recenze-open .copyright {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 111px;
+  white-space: nowrap;
+}
+
+.recenze-open .frame-380 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open .acoustic-12-st-bronzelight-10-47-4 {
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 333px;
+  white-space: nowrap;
+  width: 218px;
+}
+
+.recenze-open .ellipse {
+  height: 121px;
+  position: absolute;
+  top: 95px;
+  width: 122px;
+}
+
+.recenze-open .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.recenze-open .icon-star-21 {
+  height: 33px;
+  position: absolute;
+  width: 36px;
+}
+
+.recenze-open .struny-henrys-bronz-4 {
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 373px;
+  width: 238px;
+}
+
+.recenze-open .vector {
+  height: 1px;
+  object-fit: cover;
+}
+/* screen - recenze-open-tablet-all-breakpoints */
+
+.recenze-open-tablet-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2652px;
+  overflow: hidden;
+  width: 1024px;
+}
+
+.recenze-open-tablet-all-breakpoints .menu-phone {
+  align-items: center;
+  background-color: var(--black-2);
+  display: flex;
+  height: 85px;
+  padding: 12px 21px;
+  width: 1024px;
+}
+
+.recenze-open-tablet-all-breakpoints .logo {
+  align-self: flex-start;
+  height: 48px;
+  width: 68px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-search {
+  height: 36px;
+  margin-bottom: 3.0px;
+  margin-left: 753px;
+  width: 36px;
+}
+
+.recenze-open-tablet-all-breakpoints .group-247 {
+  height: 27px;
+  margin-left: 50px;
+  margin-top: 0;
+  width: 43px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-396-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-right: -24px;
+  margin-top: 49px;
+  position: relative;
+  width: 1027px;
+}
+
+.recenze-open-tablet-all-breakpoints .drobeckova-navigace-1 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  padding: 16px 0px 16px 53px;
+  position: relative;
+  width: 446px;
+}
+
+.recenze-open-tablet-all-breakpoints .nzev-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-394-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 114px;
+  position: relative;
+  width: 1027px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-381-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 115px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .gallery-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 59px;
+  height: 478px;
+  min-width: 566px;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-307-1 {
+  background-image: url(../img/frame-307-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 291px;
+  margin-left: 72px;
+  width: 450px;
+}
+
+.recenze-open-tablet-all-breakpoints .group-238-1 {
+  display: flex;
+  width: 566px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-313-2 {
+  align-items: center;
+  gap: 12.79px;
+  height: 128px;
+  padding: 0px 0px 0px 53px;
+  width: 566px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-310-1 {
+  background-image: url(../img/frame-310-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127.91px;
+  min-width: 127.91px;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-311-1 {
+  background-image: url(../img/frame-311-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127.91px;
+  min-width: 127.91px;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-312-1 {
+  background-image: url(../img/frame-312-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127.91px;
+  min-width: 127.91px;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-313-3 {
+  background-color: var(--baby-powder);
+  height: 127.91px;
+  justify-content: center;
+  margin-right: -37.00px;
+  min-width: 127.91px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-335-1 {
+  align-items: flex-end;
+  gap: 48px;
+  margin-right: -16.00px;
+  width: 363px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-327-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-left: -92.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-314-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .acoustic-12-st-bronze-light-10-47-1 {
+  color: var(--black-2);
+  font-family: var(--font-family-bebas_neue);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 455px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-308-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-21 {
+  height: 20.4px;
+  min-width: 20.4px;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .sada-henrys-010-1 {
+  height: 72px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: 348px;
+}
+
+.recenze-open-tablet-all-breakpoints .zobrazit-cel-popis-1 {
+  color: var(--neon-carrot);
+  font-family: var(--font-family-bebas_neue);
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-384-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  position: relative;
+  width: 334px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-335-2 {
+  align-items: flex-start;
+  gap: 8px;
+  margin-right: -63.00px;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .vyberte-variantu-1 {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 118px;
+}
+
+.recenze-open-tablet-all-breakpoints .group-239-1 {
+  box-shadow: 0px 2.77px 2.21px #00000005 , 0px 6.65px 5.32px #00000007 , 0px 12.52px 10.02px #00000009 , 0px 22.34px 17.87px #0000000b , 0px 41.78px 33.42px #0000000d , 0px 100px 80px #00000012;
+  height: 48px;
+  min-width: 397px;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .overlap-group-2 {
+  height: 48px;
+  position: relative;
+  width: 397px;
+}
+
+.recenze-open-tablet-all-breakpoints .secondary-button-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  justify-content: space-around;
+  left: 0;
+  padding: 8px 16px;
+  position: absolute;
+  top: 0;
+  width: 397px;
+}
+
+.recenze-open-tablet-all-breakpoints .text-5 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-4 {
+  height: 11px;
+  left: 363px;
+  position: absolute;
+  top: 20px;
+  width: 19px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-325-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-324-1 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-323-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .price-3 {
+  color: var(--black-2);
+  font-family: var(--font-family-bebas_neue);
+  font-size: 50px;
+  font-weight: 400;
+  height: 56px;
+  line-height: 64px;
+  margin-top: -1.00px;
+  width: 226px;
+}
+
+.recenze-open-tablet-all-breakpoints .vector-39-2 {
+  margin-top: -0.50px;
+  min-width: 415px;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-3-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .x3-1 {
+  height: 20.22px;
+  margin-top: 8.7px;
+  width: 10.11px;
+}
+
+.recenze-open-tablet-all-breakpoints .x14-1 {
+  height: 17.33px;
+  margin-top: 10.1px;
+  width: 15.89px;
+}
+
+.recenze-open-tablet-all-breakpoints .group-253 {
+  align-items: flex-start;
+  box-shadow: 0px 1.51px 1.23px #00000004 , 0px 3.5px 2.86px #00000006 , 0px 6.29px 5.13px #00000007 , 0px 10.44px 8.51px #00000009 , 0px 17.19px 14.02px #0000000a , 0px 30.05px 24.5px #0000000b , 0px 65px 53px #0000000d;
+  display: flex;
+  margin-left: -143px;
+  margin-top: 49px;
+  min-width: 1243px;
+  padding: 0 0.7px;
+}
+
+.recenze-open-tablet-all-breakpoints .overlap-group1-1 {
+  height: 629px;
+  margin-top: 0;
+  position: relative;
+  width: 1218px;
+}
+
+.recenze-open-tablet-all-breakpoints .overlap-group-3 {
+  height: 629px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1218px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-357-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  left: 214px;
+  position: absolute;
+  top: 0;
+  width: 485px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-351-1 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .popis-produktu-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-352-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .recenze-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-35-1 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .foto-video-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .tipy-triky-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-355 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  gap: 16px;
+  margin-right: -39.51px;
+  padding: 16px;
+}
+
+.recenze-open-tablet-all-breakpoints .psluenstv-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .rectangle-529-1 {
+  background-color: var(--white);
+  height: 575px;
+  left: 0;
+  position: absolute;
+  top: 54px;
+  width: 1218px;
+}
+
+.recenze-open-tablet-all-breakpoints .vector-41-1 {
+  height: 1px;
+  left: 318px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 848px;
+}
+
+.recenze-open-tablet-all-breakpoints .vector-39-3 {
+  left: 142px;
+  position: absolute;
+  top: 54px;
+  width: 73px;
+}
+
+.recenze-open-tablet-all-breakpoints .ellipse-12-1 {
+  height: 90px;
+  left: 236px;
+  position: absolute;
+  top: 111px;
+  width: 86px;
+}
+
+.recenze-open-tablet-all-breakpoints .ellipse-13-1 {
+  height: 90px;
+  left: 466px;
+  position: absolute;
+  top: 111px;
+  width: 86px;
+}
+
+.recenze-open-tablet-all-breakpoints .ellipse-14-1 {
+  height: 90px;
+  left: 696px;
+  position: absolute;
+  top: 111px;
+  width: 86px;
+}
+
+.recenze-open-tablet-all-breakpoints .ellipse-15-1 {
+  height: 90px;
+  left: 926px;
+  position: absolute;
+  top: 111px;
+  width: 86px;
+}
+
+.recenze-open-tablet-all-breakpoints .karel-novk-1 {
+  left: 236px;
+}
+
+.recenze-open-tablet-all-breakpoints .karel-novk-2 {
+  left: 466px;
+}
+
+.recenze-open-tablet-all-breakpoints .karel-novk-3 {
+  left: 696px;
+}
+
+.recenze-open-tablet-all-breakpoints .karel-novk-4 {
+  left: 926px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-22 {
+  height: 33px;
+  left: 197px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-23 {
+  height: 33px;
+  left: 427px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-24 {
+  height: 33px;
+  left: 657px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-25 {
+  height: 33px;
+  left: 887px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-26 {
+  height: 33px;
+  left: 226px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-27 {
+  height: 33px;
+  left: 456px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-28 {
+  height: 33px;
+  left: 686px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-29 {
+  height: 33px;
+  left: 916px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-30 {
+  height: 33px;
+  left: 255px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-31 {
+  height: 33px;
+  left: 485px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-32 {
+  height: 33px;
+  left: 715px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-33 {
+  height: 33px;
+  left: 945px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-34 {
+  height: 33px;
+  left: 284px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-35 {
+  height: 33px;
+  left: 514px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-36 {
+  height: 33px;
+  left: 744px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-37 {
+  height: 33px;
+  left: 974px;
+  position: absolute;
+  top: 315px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-38 {
+  height: 33px;
+  left: 313px;
+  position: absolute;
+  top: 314px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-39 {
+  height: 33px;
+  left: 543px;
+  position: absolute;
+  top: 314px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-40 {
+  height: 33px;
+  left: 773px;
+  position: absolute;
+  top: 314px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-star-41 {
+  height: 33px;
+  left: 1003px;
+  position: absolute;
+  top: 314px;
+  width: 25px;
+}
+
+.recenze-open-tablet-all-breakpoints .acoustic-12-st-bronzelight-10-47-4 {
+  left: 201px;
+}
+
+.recenze-open-tablet-all-breakpoints .acoustic-12-st-bronzelight-10-47-5 {
+  left: 431px;
+}
+
+.recenze-open-tablet-all-breakpoints .acoustic-12-st-bronzelight-10-47-6 {
+  left: 661px;
+}
+
+.recenze-open-tablet-all-breakpoints .acoustic-12-st-bronzelight-10-47-7 {
+  left: 891px;
+}
+
+.recenze-open-tablet-all-breakpoints .struny-henrys-bronz-4 {
+  left: 193px;
+}
+
+.recenze-open-tablet-all-breakpoints .struny-henrys-bronz-5 {
+  left: 423px;
+}
+
+.recenze-open-tablet-all-breakpoints .struny-henrys-bronz-6 {
+  left: 653px;
+}
+
+.recenze-open-tablet-all-breakpoints .struny-henrys-bronz-7 {
+  left: 883px;
+}
+
+.recenze-open-tablet-all-breakpoints .group-247-1 {
+  align-items: center;
+  display: flex;
+  height: 371px;
+  margin-left: 3px;
+  margin-top: 119px;
+  min-width: 1005px;
+}
+
+.recenze-open-tablet-all-breakpoints .group-243-2 {
+  align-items: flex-start;
+  min-width: 41px;
+  transform: rotate(-180.00deg);
+}
+
+.recenze-open-tablet-all-breakpoints .overlap-group-4 {
+  border-radius: 20.56px/25.65px;
+  height: 51px;
+  position: relative;
+  width: 41px;
+}
+
+.recenze-open-tablet-all-breakpoints .ellipse-4 {
+  background-color: var(--neon-carrot);
+  border-radius: 20.56px/25.65px;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-5 {
+  height: 20px;
+  left: 17px;
+  position: absolute;
+  top: 15px;
+  transform: rotate(180.00deg);
+  width: 11px;
+}
+
+.recenze-open-tablet-all-breakpoints .flex-col-7 {
+  align-items: center;
+  gap: 32px;
+  margin-left: 8px;
+  min-height: 371px;
+  width: 903px;
+}
+
+.recenze-open-tablet-all-breakpoints .dal-doporuen-produkty-1 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 72.61px;
+  white-space: nowrap;
+  width: 308px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-350-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 307px;
+  position: relative;
+  width: 903px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-308-2 {
+  height: 17.46px;
+  min-width: 80px;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .address-2 {
+  height: 21.82px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .price-2 {
+  height: 27px;
+  line-height: 32px;
+  width: 69px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-349 {
+  align-items: center;
+  flex-direction: column;
+  gap: 8px;
+  margin-right: -216.98px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-308-4 {
+  height: 17.46px;
+  min-width: 65.32px;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .group-243-3 {
+  background-color: var(--neon-carrot);
+  border-radius: 20.56px/25.65px;
+  height: 51px;
+  margin-left: 10px;
+  width: 41px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-6 {
+  height: 19.96px;
+  margin-left: 16.5px;
+  margin-top: 16.1px;
+  width: 11.26px;
+}
+
+.recenze-open-tablet-all-breakpoints .footer-1 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 627px;
+  justify-content: flex-start;
+  margin-left: 3px;
+  margin-top: 143px;
+  min-width: 1038px;
+  width: auto;
+}
+
+.recenze-open-tablet-all-breakpoints .flex-col-4 {
+  align-items: flex-end;
+  background-image: url(../img/vector-2.png);
+  background-size: 100% 100%;
+  gap: 63px;
+  min-height: 627px;
+  padding: 30.2px 139.6px;
+  width: 1021px;
+}
+
+.recenze-open-tablet-all-breakpoints .flex-row-2 {
+  align-self: center;
+  height: 176px;
+  margin-right: 43.07px;
+  margin-top: 295px;
+  min-width: 613px;
+}
+
+.recenze-open-tablet-all-breakpoints .group-1 {
+  align-self: flex-end;
+  height: 157px;
+  margin-bottom: 0;
+  width: 31px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-358-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 129px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .poradna-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-359-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 84px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .lifestyle-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .gear-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .flex-col-5 {
+  align-items: flex-start;
+  align-self: flex-end;
+  gap: 57px;
+  margin-left: 98px;
+  min-height: 168px;
+  width: 99px;
+}
+
+.recenze-open-tablet-all-breakpoints .socials-1 {
+  align-items: center;
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  min-width: 86px;
+}
+
+.recenze-open-tablet-all-breakpoints .icon-3 {
+  cursor: pointer;
+  height: 31px;
+  width: 18px;
+}
+
+.recenze-open-tablet-all-breakpoints .text-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 99px;
+}
+
+.recenze-open-tablet-all-breakpoints .button-base-1 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: -0.03px;
+  margin-right: -4.89px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .text-4 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .flex-col-6 {
+  align-items: flex-start;
+  gap: 6px;
+  min-height: 32px;
+  width: 699px;
+}
+
+.recenze-open-tablet-all-breakpoints .vector-53-1 {
+  height: 1px;
+  object-fit: cover;
+  width: 673px;
+}
+
+.recenze-open-tablet-all-breakpoints .flex-row-3 {
+  gap: 342px;
+  height: 25px;
+  margin-left: 0;
+  min-width: 699px;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-380-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-380-item-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .acoustic-12-st-bronzelight-10-47 {
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 250px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.recenze-open-tablet-all-breakpoints .address {
+  letter-spacing: 0;
+  line-height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.recenze-open-tablet-all-breakpoints .flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.recenze-open-tablet-all-breakpoints .flex-row {
+  align-items: flex-start;
+  display: flex;
+}
+
+.recenze-open-tablet-all-breakpoints .frame {
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-313 {
+  display: flex;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .frame-335 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.recenze-open-tablet-all-breakpoints .group-243 {
+  display: flex;
+  margin-top: 64.56px;
+}
+
+.recenze-open-tablet-all-breakpoints .karel-novk {
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-decoration: underline;
+  top: 216px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.recenze-open-tablet-all-breakpoints .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.recenze-open-tablet-all-breakpoints .price {
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.recenze-open-tablet-all-breakpoints .struny-henrys-bronz {
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 368px;
+  width: 168px;
+}
+
+.recenze-open-tablet-all-breakpoints .vector-39 {
+  height: 1px;
+  object-fit: cover;
+}
+@media screen and (max-width: 1023px) {
+  .screen.recenze-open { 
+    display: none;
+   }
+  .screen.recenze-open-tablet-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1024px) and (max-width: 1727px) {
+  .screen.recenze-open { 
+    display: none;
+   }
+  .screen.product-detail-phone-recenze-open-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1728px) {
+  .screen.recenze-open-tablet-all-breakpoints { 
+    display: none;
+   }
+  .screen.product-detail-phone-recenze-open-2 { 
+    display: none;
+   }
+}

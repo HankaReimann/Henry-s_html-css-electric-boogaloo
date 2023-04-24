@@ -1,0 +1,819 @@
+/* screen - pack */
+
+.pack {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 3513px;
+  overflow-x: hidden;
+  width: 1728px;
+}
+
+.pack .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 136px;
+  min-height: 284px;
+  width: 1728px;
+}
+
+.pack .menu {
+  background-color: var(--black-2);
+  display: flex;
+  height: 96px;
+  width: 1728px;
+}
+
+.pack .logo {
+  height: 64.54px;
+  margin-left: 33px;
+  margin-top: 16px;
+  width: 91px;
+}
+
+.pack .frame-329 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  height: 40px;
+  margin-left: 163px;
+  margin-top: 28px;
+  position: relative;
+  width: 483px;
+}
+
+.pack .menu-button {
+  align-items: flex-start;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .secondary-button {
+  align-items: center;
+  background-color: var(--cape-cod);
+  border: 1px solid;
+  border-color: var(--alto);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  margin-left: 198px;
+  margin-top: 23px;
+  padding: 8px 16px;
+  position: relative;
+  width: 353px;
+}
+
+.pack .icon-search {
+  height: 27px;
+  min-width: 27px;
+  position: relative;
+}
+
+.pack .text {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pack .frame-328 {
+  align-items: center;
+  background-color: var(--dune);
+  display: flex;
+  gap: 8px;
+  height: 24px;
+  justify-content: center;
+  margin-left: 320px;
+  margin-top: 23px;
+  padding: 2px;
+  position: relative;
+  width: 60px;
+}
+
+.pack .cz {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pack .icon {
+  height: 5.24px;
+  min-width: 10px;
+  position: relative;
+}
+
+.pack .drobeckova-navigace {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  padding: 16px 0px;
+  position: relative;
+  width: 1120px;
+}
+
+.pack .union {
+  height: 18px;
+  min-width: 16px;
+  position: relative;
+}
+
+.pack .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 107px;
+  height: 817px;
+  margin-right: 12.0px;
+  margin-top: 21px;
+  min-width: 1190px;
+}
+
+.pack .flex-col-1 {
+  align-items: flex-start;
+  gap: 42px;
+  min-height: 531px;
+  width: 625px;
+}
+
+.pack .main_valentynsky_pack-2 {
+  height: 375px;
+  object-fit: cover;
+  width: 558px;
+}
+
+.pack .frame-386 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 114px;
+  min-width: 601px;
+}
+
+.pack .x6img_navijec_valentynsky_pack-1 {
+  height: 80px;
+  object-fit: cover;
+  width: 137px;
+}
+
+.pack .x5img_rukav_valentynsky_pack-1 {
+  height: 115px;
+  margin-left: 42px;
+  margin-top: -1px;
+  object-fit: cover;
+  width: 99px;
+}
+
+.pack .x4img_trskatka_valentynsky_pack-1 {
+  align-self: center;
+  height: 92px;
+  margin-bottom: 2.0px;
+  margin-left: 43px;
+  object-fit: cover;
+  width: 106px;
+}
+
+.pack .x3-dal {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: 12.0px;
+  margin-left: 42px;
+  min-width: 46px;
+  white-space: nowrap;
+}
+
+.pack .flex-col-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  min-height: 807px;
+  width: 458px;
+}
+
+.pack .acoustic-12-st-bronze-light-10-47 {
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-left: 3px;
+  white-space: nowrap;
+}
+
+.pack .sada-henrys-010 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 2px;
+  margin-top: 26px;
+  min-height: 72px;
+  width: 455px;
+}
+
+.pack .zobrazit-cel-popis-produktu {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 2px;
+  margin-top: 38px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.pack .frame-325 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  margin-left: 2px;
+  margin-top: 39px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .price-1 {
+  height: 56px;
+  line-height: 64px;
+  margin-top: -1.00px;
+  width: 226px;
+}
+
+.pack .cena-v-dph {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.pack .tahle-vybran-varian {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -4px;
+  margin-left: 6px;
+  margin-top: 37px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.pack .rectangle-574 {
+  align-self: center;
+  background-color: var(--alto);
+  height: 177px;
+  margin-right: 51.0px;
+  margin-top: 52px;
+  width: 333px;
+}
+
+.pack .frame-385 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  margin-top: 142px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .frame-335 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .zobrazit-dal-balky {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 189px;
+}
+
+.pack .group-239 {
+  box-shadow: 0px 2.77px 2.21px #00000005 , 0px 6.65px 5.32px #00000007 , 0px 12.52px 10.02px #00000009 , 0px 22.34px 17.87px #0000000b , 0px 41.78px 33.42px #0000000d , 0px 100px 80px #00000012;
+  height: 48px;
+  min-width: 455px;
+  position: relative;
+}
+
+.pack .overlap-group-1 {
+  height: 48px;
+  position: relative;
+  width: 455px;
+}
+
+.pack .secondary-button-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  justify-content: space-around;
+  left: 0;
+  padding: 8px 16px;
+  position: absolute;
+  top: 0;
+  width: 455px;
+}
+
+.pack .icon-1 {
+  height: 11px;
+  left: 416px;
+  position: absolute;
+  top: 20px;
+  width: 21px;
+}
+
+.pack .overlap-group2 {
+  margin-left: 2.0px;
+  margin-top: 171px;
+  position: relative;
+}
+
+.pack .overlap-group {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.pack .frame-357 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 96px;
+  left: 305px;
+  position: absolute;
+  top: 10px;
+  width: fit-content;
+}
+
+.pack .frame-351 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .popis-produktu {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pack .frame-35 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .rectangle-529 {
+  background-color: var(--white);
+  height: 990px;
+  left: 1px;
+  position: absolute;
+  top: 58px;
+  width: 1728px;
+}
+
+.pack .vector-41 {
+  left: 453px;
+  position: absolute;
+  top: 57px;
+  width: 1277px;
+}
+
+.pack .vector-39 {
+  left: 0;
+  position: absolute;
+  top: 57px;
+  width: 306px;
+}
+
+.pack .rectangle-539 {
+  height: 10px;
+  left: 304px;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.pack .frame-372 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 504px;
+  left: 305px;
+  position: absolute;
+  top: 116px;
+  width: 603px;
+}
+
+.pack .valentnsk-pack-obsahuje {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pack .epici-henrys-music {
+  height: 133px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: 550px;
+}
+
+.pack .x-henrys-musi {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: 550px;
+}
+
+.pack .lifestylov-fotky {
+  left: 725px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 715px;
+  width: 365px;
+}
+
+.pack .rukv-henrys-music {
+  left: 946px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 337px;
+  width: 550px;
+}
+
+.pack .trstka-henrys-musi {
+  left: 950px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 163px;
+  width: 550px;
+}
+
+.pack .group-253 {
+  align-items: center;
+  display: flex;
+  height: 369px;
+  margin-right: 16.0px;
+  margin-top: 133px;
+  min-width: 1246px;
+  padding: 0 0.0px;
+}
+
+.pack .group-243 {
+  background-color: var(--neon-carrot);
+  border-radius: 25.5px;
+  display: flex;
+  height: 51px;
+  margin-top: 64.18px;
+  transform: rotate(-180.00deg);
+  width: 51px;
+}
+
+.pack .icon-2 {
+  height: 19.87px;
+  margin-left: 21.0px;
+  margin-top: 15.0px;
+  transform: rotate(180.00deg);
+  width: 13px;
+}
+
+.pack .flex-col-3 {
+  align-items: center;
+  align-self: flex-start;
+  gap: 32px;
+  margin-left: 10px;
+  min-height: 369px;
+  width: 1120px;
+}
+
+.pack .dal-doporuen-produkty {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 1.0px;
+  min-width: 293px;
+  white-space: nowrap;
+}
+
+.pack .frame-350 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .frame-314 {
+  background-image: url(../img/frame-314@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  min-width: 265px;
+  position: relative;
+}
+
+.pack .frame-345 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .frame-308 {
+  height: 17.45px;
+  min-width: 80px;
+  position: relative;
+}
+
+.pack .address {
+  height: 21.82px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.pack .acoustic-12-st-bronze-10-47 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pack .price {
+  height: 27px;
+  line-height: 32px;
+  width: 69px;
+}
+
+.pack .group-243-1 {
+  background-color: var(--neon-carrot);
+  border-radius: 25.5px;
+  display: flex;
+  height: 51px;
+  margin-left: 12px;
+  margin-top: 64.18px;
+  width: 51px;
+}
+
+.pack .icon-3 {
+  height: 19.87px;
+  margin-left: 21px;
+  margin-top: 16px;
+  width: 13px;
+}
+
+.pack .footer {
+  align-items: center;
+  background-color: transparent;
+  background-image: url(../img/vector-106.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  gap: 64px;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 43px;
+  min-height: 627px;
+  padding: 30.2px 0;
+  width: 1728px;
+}
+
+.pack .flex-row-1 {
+  height: 176px;
+  margin-right: 100.0px;
+  margin-top: 295px;
+  min-width: 1020px;
+}
+
+.pack .group {
+  align-self: flex-end;
+  height: 157px;
+  width: 51px;
+}
+
+.pack .frame-358 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 246px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .poradna {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pack .od-vs {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pack .frame-359 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 198px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pack .struny {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pack .lifestyle {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pack .gear {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pack .flex-col-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  gap: 57px;
+  margin-bottom: 0;
+  margin-left: 190px;
+  min-height: 168px;
+  width: 165px;
+}
+
+.pack .socials {
+  align-items: center;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  min-width: 143px;
+}
+
+.pack .social-icon {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.pack .text-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 165px;
+}
+
+.pack .button-base {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .text-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .flex-col-5 {
+  align-items: flex-start;
+  gap: 6px;
+  min-height: 32px;
+  width: 1120px;
+}
+
+.pack .vector-53 {
+  width: 1120px;
+}
+
+.pack .flex-row-2 {
+  gap: 724px;
+  height: 25px;
+  min-width: 1082px;
+}
+
+.pack .copyright {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 111px;
+  white-space: nowrap;
+}
+
+.pack .frame-380 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  position: relative;
+  width: fit-content;
+}
+
+.pack .flex-col-6 {
+  display: flex;
+  flex-direction: column;
+}
+
+.pack .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.pack .overlap {
+  height: 1048px;
+  width: 1730px;
+}
+
+.pack .price-2 {
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pack .vector {
+  height: 1px;
+  object-fit: cover;
+}

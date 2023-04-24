@@ -1,0 +1,1673 @@
+/* screen - product-detail-phone-tipy-triky-open-all-breakpoints */
+
+.product-detail-phone-tipy-triky-open-all-breakpoints {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3126px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .menu-phone {
+  align-items: center;
+  background-color: var(--black-2);
+  display: flex;
+  height: 72px;
+  padding: 0 21px;
+  width: 428px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .logo {
+  height: 48px;
+  width: 68px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .icon-search {
+  height: 36px;
+  margin-left: 218px;
+  margin-top: 4.0px;
+  width: 36px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .group-247 {
+  height: 23px;
+  margin-left: 27px;
+  width: 36px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .drobeckova-navigace {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  margin-left: 1.0px;
+  margin-top: 16px;
+  padding: 16px 0px;
+  position: relative;
+  width: 387px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .union {
+  height: 18px;
+  min-width: 16px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .text-6 {
+  line-height: 20px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-388 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  margin-top: 44px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-387 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 51px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-3-1 {
+  align-items: flex-start;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .acoustic-12-st-bronze-light-10-47 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .address-1 {
+  left: 111px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-decoration: underline;
+  top: 2px;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-308 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 102px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-307 {
+  background-image: url(../img/frame-307-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 256px;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .group-238 {
+  display: flex;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-313 {
+  align-items: flex-start;
+  display: flex;
+  gap: 9.02px;
+  height: 90.23px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-310 {
+  background-image: url(../img/frame-310-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90.23px;
+  min-width: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-311 {
+  background-image: url(../img/frame-311-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90.23px;
+  min-width: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-312 {
+  background-image: url(../img/frame-312-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90.23px;
+  min-width: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-313-1 {
+  background-color: var(--baby-powder);
+  display: flex;
+  height: 90.23px;
+  justify-content: center;
+  min-width: 90.23px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .x3-dal {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.9px;
+  margin-left: -18.9px;
+  margin-top: 36.7px;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-36 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .sada-henrys-010 {
+  height: 96px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 387px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .group-239 {
+  box-shadow: 0px 2.77px 2.21px #00000005 , 0px 6.65px 5.32px #00000007 , 0px 12.52px 10.02px #00000009 , 0px 22.34px 17.87px #0000000b , 0px 41.78px 33.42px #0000000d , 0px 100px 80px #00000012;
+  height: 48px;
+  min-width: 388px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .overlap-group-1 {
+  height: 48px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .secondary-button {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  justify-content: center;
+  left: 0;
+  padding: 8px 16px;
+  position: absolute;
+  top: 0;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .text-1 {
+  line-height: 24px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .icon-1 {
+  height: 11px;
+  left: 354px;
+  position: absolute;
+  top: 20px;
+  width: 18px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-363 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-362 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .price-1 {
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 64px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 226px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .cena-v-dph {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-334 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-360 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .vector-39 {
+  margin-top: -0.50px;
+  min-width: 388px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-333 {
+  align-items: flex-end;
+  display: flex;
+  gap: 22px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-3-2 {
+  align-items: center;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .group-24 {
+  background-color: var(--brandy-punch);
+  border: 1.44px solid;
+  border-color: var(--neon-carrot);
+  border-radius: 19.5px;
+  display: flex;
+  height: 39px;
+  justify-content: center;
+  min-width: 39px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .x3 {
+  height: 20.22px;
+  margin-top: 8.7px;
+  width: 10.11px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .x14 {
+  height: 17.33px;
+  margin-top: 10.1px;
+  width: 15.89px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-322 {
+  height: 56px;
+  min-width: 387px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-377 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 18px;
+  padding: 16px 20px 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-375 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-351 {
+  align-items: center;
+  background-color: var(--white);
+  border-color: var(--neon-carrot);
+  border-top-style: solid;
+  border-top-width: 6px;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 20px 16px 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .popis-produktu {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -6.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .icon {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-351-1 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 20px 16px 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-356 {
+  align-items: center;
+  background-color: var(--gallery);
+  box-shadow: 0px 1.51px 1.23px #00000004 , 0px 3.5px 2.86px #00000006 , 0px 6.29px 5.13px #00000007 , 0px 10.44px 8.51px #00000009 , 0px 17.19px 14.02px #0000000a , 0px 30.05px 24.5px #0000000b , 0px 65px 53px #0000000d;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 16px 20px 16px 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 65px;
+  height: 213px;
+  margin-left: 3.0px;
+  margin-top: 28px;
+  min-width: 325px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .overlap-group {
+  align-items: center;
+  background-color: var(--white-2);
+  border: 1px solid;
+  border-color: var(--neon-carrot);
+  box-shadow: 0px 1.85px 1.81px -3px #0000001f , 0px 8.15px 3.75px -3px #00000017 , 0px 20px 7.47px -3px #00000013 , 0px 38.52px 14.65px -3px #0000000f , 0px 64.81px 26.94px -3px #0000000c , 0px 100px 46px -3px #00000007;
+  display: flex;
+  flex-direction: column;
+  min-height: 213px;
+  padding: 9px 0;
+  width: 129px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-399 {
+  background-image: url(../img/frame-399@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 48px;
+  margin-left: 3.0px;
+  width: 106px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .lorem-ipsum-dolor-si {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 17px;
+  min-height: 95px;
+  text-align: center;
+  width: 111px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .primary-button {
+  align-items: center;
+  background-color: var(--neon-carrot);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 22px;
+  justify-content: center;
+  margin-top: 8px;
+  padding: 8px 16px;
+  position: relative;
+  width: 77px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .text {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -8.00px;
+  margin-top: -10.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-357 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  justify-content: space-between;
+  margin-top: 107px;
+  padding: 16px 20px 16px 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .icon-2 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-358 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+  padding: 16px 20px 16px 16px;
+  position: relative;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .psluenstv {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .icon-3 {
+  height: 8.01px;
+  margin-right: -0.73px;
+  min-width: 13.25px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .group-252 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  margin-right: -719px;
+  margin-top: 72px;
+  min-height: 376px;
+  width: 1122px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .dal-doporuen-produkty {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 48px;
+  white-space: nowrap;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .overlap-group1 {
+  height: 305px;
+  position: relative;
+  width: 1120px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-350 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-314 {
+  background-image: url(../img/frame-314@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  min-width: 265px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-345 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-308-1 {
+  min-width: 80px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .address {
+  height: 21.82px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .acoustic-12-st-bronze-10-47 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .price {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: relative;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-308-2 {
+  min-width: 66.5px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-308-3 {
+  margin-left: -9428.50px;
+  margin-top: -572.82px;
+  min-width: 80px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-308-4 {
+  margin-left: -9713.50px;
+  margin-top: -572.82px;
+  min-width: 80px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .group-243 {
+  background-color: var(--neon-carrot);
+  border-radius: 25.5px;
+  box-shadow: 0px 2.77px 2.21px #00000002 , 0px 6.65px 5.32px #00000008 , 0px 12.52px 10.02px #00000012 , 0px 22.34px 17.87px #00000020 , 0px 41.78px 33.42px #00000034 , 0px 100px 80px #0000005e;
+  display: flex;
+  height: 51px;
+  left: 345px;
+  position: absolute;
+  top: 74px;
+  width: 51px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .icon-4 {
+  height: 19.87px;
+  margin-left: 21px;
+  margin-top: 16.0px;
+  width: 13px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .footer-phone {
+  align-items: flex-start;
+  background-image: url(../img/vector-1.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 110px;
+  min-height: 552px;
+  padding: 22.0px 19px;
+  width: 428px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-378 {
+  align-items: flex-start;
+  display: flex;
+  gap: 88px;
+  margin-left: 29.5px;
+  margin-top: 138px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-35 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .poradna {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .od-vs {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .struny {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .lifestyle {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .gear {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .socials {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-left: 1px;
+  margin-top: 48px;
+  min-width: 143px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .social-icon {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .social-icon-1 {
+  margin-left: 25px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .social-icon-2 {
+  margin-left: 26px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 121px;
+  height: 24px;
+  margin-top: 40px;
+  min-width: 330px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .vector-53 {
+  align-self: center;
+  margin-right: 0.5px;
+  margin-top: 16px;
+  width: 388px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-379 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  margin-right: 21.5px;
+  margin-top: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .text-2 {
+  line-height: 16px;
+  margin-top: -1.00px;
+  width: 202px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .copyright {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-3-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .frame-308-5 {
+  height: 17.45px;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .social-icon-3 {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .text-3 {
+  letter-spacing: 0;
+  position: relative;
+}
+
+.product-detail-phone-tipy-triky-open-all-breakpoints .vector {
+  height: 1px;
+  object-fit: cover;
+}
+/* screen - tipy-a-triky-open */
+
+.tipy-a-triky-open {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2710px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.tipy-a-triky-open .menu {
+  background-color: var(--black-2);
+  display: flex;
+  height: 96px;
+  margin-right: 4.0px;
+  width: 1728px;
+}
+
+.tipy-a-triky-open .logo-1 {
+  height: 64.54px;
+  margin-left: 33px;
+  margin-top: 16px;
+  width: 91px;
+}
+
+.tipy-a-triky-open .frame-329 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  height: 40px;
+  margin-left: 163px;
+  margin-top: 28px;
+  position: relative;
+  width: 483px;
+}
+
+.tipy-a-triky-open .menu-button {
+  align-items: flex-start;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .secondary-button-1 {
+  background-color: var(--cape-cod);
+  margin-left: 198px;
+  margin-top: 23px;
+  position: relative;
+  width: 353px;
+}
+
+.tipy-a-triky-open .icon-search-1 {
+  height: 27px;
+  min-width: 27px;
+  position: relative;
+}
+
+.tipy-a-triky-open .text-3 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .overlap-group-2 {
+  height: 62px;
+  position: relative;
+  width: 168px;
+}
+
+.tipy-a-triky-open .primary-button-icon {
+  background-color: var(--black-2);
+  border: 1px solid;
+  border-color: var(--alto);
+  height: 48px;
+  left: 0;
+  top: 14px;
+  width: 159px;
+}
+
+.tipy-a-triky-open .text-5 {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .frame-328 {
+  align-items: center;
+  background-color: var(--dune);
+  display: flex;
+  gap: 8px;
+  height: 24px;
+  justify-content: center;
+  margin-left: 49px;
+  margin-top: 23px;
+  padding: 2px;
+  position: relative;
+  width: 60px;
+}
+
+.tipy-a-triky-open .cz {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .icon-5 {
+  height: 5.24px;
+  min-width: 10px;
+  position: relative;
+}
+
+.tipy-a-triky-open .overlap-group3 {
+  height: 580px;
+  margin-top: 72px;
+  position: relative;
+  width: 1120px;
+}
+
+.tipy-a-triky-open .rectangle-541 {
+  height: 6px;
+  left: 186px;
+  position: absolute;
+  top: 42px;
+  width: 104px;
+}
+
+.tipy-a-triky-open .frame-396 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .drobeckova-navigace-1 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  padding: 16px 0px;
+  position: relative;
+  width: 1120px;
+}
+
+.tipy-a-triky-open .frame-307-1 {
+  background-image: url(../img/frame-307.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 360px;
+  width: 550px;
+}
+
+.tipy-a-triky-open .group-238-1 {
+  display: flex;
+  width: 550px;
+}
+
+.tipy-a-triky-open .frame-313-2 {
+  align-items: flex-start;
+  gap: 12.79px;
+  width: 550px;
+}
+
+.tipy-a-triky-open .frame-310-1 {
+  background-image: url(../img/frame-310@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127.91px;
+  min-width: 127.91px;
+  position: relative;
+}
+
+.tipy-a-triky-open .frame-311-1 {
+  background-image: url(../img/frame-311@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127.91px;
+  min-width: 127.91px;
+  position: relative;
+}
+
+.tipy-a-triky-open .frame-312-1 {
+  background-image: url(../img/frame-312@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 127.91px;
+  min-width: 127.91px;
+  position: relative;
+}
+
+.tipy-a-triky-open .frame-313-3 {
+  background-color: var(--baby-powder);
+  justify-content: center;
+  min-width: 127.91px;
+}
+
+.tipy-a-triky-open .frame-335 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .frame-3-3 {
+  align-items: flex-start;
+}
+
+.tipy-a-triky-open .acoustic-12-st-bronze-light-10-47-1 {
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 455px;
+}
+
+.tipy-a-triky-open .frame-308-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .icon-star {
+  height: 20.4px;
+  min-width: 20.4px;
+  position: relative;
+}
+
+.tipy-a-triky-open .sada-henrys-010-1 {
+  height: 72px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: 455px;
+}
+
+.tipy-a-triky-open .zobrazit-cel-popis-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .group-239-1 {
+  box-shadow: 0px 2.77px 2.21px #00000005 , 0px 6.65px 5.32px #00000007 , 0px 12.52px 10.02px #00000009 , 0px 22.34px 17.87px #0000000b , 0px 41.78px 33.42px #0000000d , 0px 100px 80px #00000012;
+  height: 48px;
+  min-width: 455px;
+  position: relative;
+}
+
+.tipy-a-triky-open .overlap-group-3 {
+  height: 48px;
+  position: relative;
+  width: 455px;
+}
+
+.tipy-a-triky-open .secondary-button-2 {
+  background-color: var(--white);
+  justify-content: space-around;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 455px;
+}
+
+.tipy-a-triky-open .icon-6 {
+  height: 11px;
+  left: 416px;
+  position: absolute;
+  top: 20px;
+  width: 21px;
+}
+
+.tipy-a-triky-open .frame-325 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .price-3 {
+  height: 56px;
+  line-height: 64px;
+  margin-top: -1.00px;
+  width: 226px;
+}
+
+.tipy-a-triky-open .vector-39-1 {
+  height: 1px;
+  margin-top: -0.50px;
+  min-width: 454.5px;
+  object-fit: cover;
+  position: relative;
+}
+
+.tipy-a-triky-open .frame-3-4 {
+  align-items: center;
+}
+
+.tipy-a-triky-open .x3-1 {
+  height: 20.22px;
+  margin-left: 0;
+  margin-top: 8.7px;
+  width: 10.11px;
+}
+
+.tipy-a-triky-open .x14-1 {
+  height: 17.33px;
+  margin-left: 0;
+  margin-top: 10.1px;
+  width: 15.89px;
+}
+
+.tipy-a-triky-open .rectangle-544 {
+  background-color: var(--neon-carrot);
+  height: 6px;
+  margin-right: 175.0px;
+  margin-top: 185px;
+  width: 143px;
+}
+
+.tipy-a-triky-open .overlap-group2 {
+  height: 1788px;
+  margin-right: 1.0px;
+  position: relative;
+  width: 1729px;
+}
+
+.tipy-a-triky-open .group-252-1 {
+  align-items: center;
+  display: flex;
+  height: 369px;
+  left: 210px;
+  min-width: 1246px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 812px;
+}
+
+.tipy-a-triky-open .group-243-1 {
+  transform: rotate(-180.00deg);
+}
+
+.tipy-a-triky-open .icon-7 {
+  height: 19.87px;
+  margin-left: 21.0px;
+  margin-top: 15.0px;
+  transform: rotate(180.00deg);
+  width: 13px;
+}
+
+.tipy-a-triky-open .flex-col {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-left: 10px;
+  min-height: 369px;
+  width: 1120px;
+}
+
+.tipy-a-triky-open .dal-doporuen-produkty-1 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 1.0px;
+  min-width: 293px;
+  white-space: nowrap;
+}
+
+.tipy-a-triky-open .frame-350-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .frame-308-5 {
+  height: 17.45px;
+  min-width: 80px;
+  position: relative;
+}
+
+.tipy-a-triky-open .address-2 {
+  height: 21.82px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tipy-a-triky-open .price-2 {
+  height: 27px;
+  line-height: 32px;
+  width: 69px;
+}
+
+.tipy-a-triky-open .group-243-2 {
+  margin-left: 12px;
+}
+
+.tipy-a-triky-open .icon-8 {
+  height: 19.87px;
+  margin-left: 21px;
+  margin-top: 16px;
+  width: 13px;
+}
+
+.tipy-a-triky-open .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 627px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1728px;
+  position: absolute;
+  top: 1161px;
+  width: auto;
+}
+
+.tipy-a-triky-open .flex-col-1 {
+  background-image: url(../img/vector.png);
+  background-size: 100% 100%;
+  gap: 63px;
+  min-height: 610px;
+  padding: 13.0px 303px;
+  width: 1727px;
+}
+
+.tipy-a-triky-open .flex-row-1 {
+  height: 176px;
+  margin-top: 312px;
+  min-width: 1020px;
+}
+
+.tipy-a-triky-open .group {
+  align-self: flex-end;
+  height: 157px;
+  width: 51px;
+}
+
+.tipy-a-triky-open .frame-358-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 246px;
+  position: relative;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .poradna-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .frame-359 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 198px;
+  position: relative;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .lifestyle-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .gear-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .flex-col-2 {
+  align-self: flex-end;
+  gap: 57px;
+  margin-bottom: 0;
+  margin-left: 190px;
+  min-height: 168px;
+  width: 165px;
+}
+
+.tipy-a-triky-open .socials-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  min-width: 143px;
+}
+
+.tipy-a-triky-open .social-icon-3 {
+  cursor: pointer;
+  height: 31px;
+  margin-top: 0;
+  width: 31px;
+}
+
+.tipy-a-triky-open .text-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 165px;
+}
+
+.tipy-a-triky-open .button-base {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .text-8 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .flex-col-3 {
+  gap: 6px;
+  min-height: 32px;
+  width: 1120px;
+}
+
+.tipy-a-triky-open .vector-53-1 {
+  height: 1px;
+  object-fit: cover;
+  width: 1120px;
+}
+
+.tipy-a-triky-open .flex-row-2 {
+  gap: 724px;
+  height: 25px;
+  min-width: 1082px;
+}
+
+.tipy-a-triky-open .frame-380 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  position: relative;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .group-245 {
+  height: 827px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.tipy-a-triky-open .rectangle-468 {
+  background-color: var(--white-2);
+  border: 1px solid;
+  border-color: var(--neon-carrot);
+  box-shadow: 0px 1.85px 1.81px -3px #0000001f , 0px 8.15px 3.75px -3px #00000017 , 0px 20px 7.47px -3px #00000013 , 0px 38.52px 14.65px -3px #0000000f , 0px 64.81px 26.94px -3px #0000000c , 0px 100px 46px -3px #00000007;
+  height: 552px;
+  left: 380px;
+  position: absolute;
+  top: 103px;
+  width: 263px;
+}
+
+.tipy-a-triky-open .rectangle-545 {
+  background-color: var(--white-2);
+  border: 1px solid;
+  border-color: var(--neon-carrot);
+  box-shadow: 0px 1.85px 1.81px -3px #0000001f , 0px 8.15px 3.75px -3px #00000017 , 0px 20px 7.47px -3px #00000013 , 0px 38.52px 14.65px -3px #0000000f , 0px 64.81px 26.94px -3px #0000000c , 0px 100px 46px -3px #00000007;
+  height: 552px;
+  left: 723px;
+  position: absolute;
+  top: 103px;
+  width: 263px;
+}
+
+.tipy-a-triky-open .rectangle-546 {
+  background-color: var(--white-2);
+  border: 1px solid;
+  border-color: var(--neon-carrot);
+  box-shadow: 0px 1.85px 1.81px -3px #0000001f , 0px 8.15px 3.75px -3px #00000017 , 0px 20px 7.47px -3px #00000013 , 0px 38.52px 14.65px -3px #0000000f , 0px 64.81px 26.94px -3px #0000000c , 0px 100px 46px -3px #00000007;
+  height: 552px;
+  left: 1055px;
+  position: absolute;
+  top: 103px;
+  width: 263px;
+}
+
+.tipy-a-triky-open .frame-252 {
+  background-image: url(../img/frame-252@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 394px;
+  position: absolute;
+  top: 123px;
+  width: 239px;
+}
+
+.tipy-a-triky-open .frame-397 {
+  background-image: url(../img/frame-252@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 729px;
+  position: absolute;
+  top: 123px;
+  width: 239px;
+}
+
+.tipy-a-triky-open .frame-398 {
+  background-image: url(../img/frame-252@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 1067px;
+  position: absolute;
+  top: 125px;
+  width: 239px;
+}
+
+.tipy-a-triky-open .prvn-kroky-s-kytarou {
+  left: 392px;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: 316px;
+  white-space: nowrap;
+}
+
+.tipy-a-triky-open .prvn-kroky-s-kytarou-1 {
+  left: 740px;
+}
+
+.tipy-a-triky-open .prvn-kroky-s-kytarou-2 {
+  left: 1076px;
+}
+
+.tipy-a-triky-open .lorem-ipsum-dolor-si-1 {
+  left: 388px;
+}
+
+.tipy-a-triky-open .lorem-ipsum-dolor-si-2 {
+  left: 736px;
+}
+
+.tipy-a-triky-open .lorem-ipsum-dolor-si-3 {
+  left: 1067px;
+}
+
+.tipy-a-triky-open .primary-button-1 {
+  background-color: var(--neon-carrot);
+  height: 34px;
+  left: 420px;
+  top: 615px;
+  width: 182px;
+}
+
+.tipy-a-triky-open .text-4 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -2.00px;
+  margin-top: -4.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .primary-button-2 {
+  background-color: var(--neon-carrot);
+  height: 34px;
+  left: 763px;
+  top: 615px;
+  width: 182px;
+}
+
+.tipy-a-triky-open .primary-button-3 {
+  background-color: var(--neon-carrot);
+  height: 34px;
+  left: 1096px;
+  top: 615px;
+  width: 182px;
+}
+
+.tipy-a-triky-open .address {
+  letter-spacing: 0;
+  line-height: 20px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.tipy-a-triky-open .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.tipy-a-triky-open .flex-row {
+  align-items: flex-start;
+  display: flex;
+}
+
+.tipy-a-triky-open .frame-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .frame-313 {
+  display: flex;
+  height: 127.91px;
+  position: relative;
+}
+
+.tipy-a-triky-open .group-243 {
+  background-color: var(--neon-carrot);
+  border-radius: 25.5px;
+  display: flex;
+  height: 51px;
+  margin-top: 64.18px;
+  width: 51px;
+}
+
+.tipy-a-triky-open .lorem-ipsum-dolor-si {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 364px;
+  width: 236px;
+}
+
+.tipy-a-triky-open .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tipy-a-triky-open .price {
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.tipy-a-triky-open .primary-button {
+  align-items: center;
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 16px;
+  position: absolute;
+}
+
+.tipy-a-triky-open .prvn-kroky-s-kytarou-3 {
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: 316px;
+  white-space: nowrap;
+}
+
+.tipy-a-triky-open .secondary-button {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--alto);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  padding: 8px 16px;
+}
+@media screen and (max-width: 1727px) {
+  .screen.tipy-a-triky-open { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1728px) {
+  .screen.product-detail-phone-tipy-triky-open-all-breakpoints { 
+    display: none;
+   }
+}

@@ -1,0 +1,642 @@
+/* screen - article */
+
+.article {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3598px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.article .menu {
+  background-color: #161616;
+  display: flex;
+  height: 88px;
+  justify-content: space-between;
+  width: 1728px;
+}
+
+.article .logo {
+  height: 56px;
+  margin-left: 33px;
+  margin-top: 16px;
+  width: 78.96px;
+}
+
+.article .frame-210 {
+  gap: 20px;
+  height: 40px;
+  margin-right: 38px;
+  margin-top: 24px;
+  width: 453px;
+}
+
+.article .menu-button {
+  align-items: flex-start;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  padding: 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.article .clanek_cover-1 {
+  height: 419px;
+  object-fit: cover;
+  width: 1728px;
+}
+
+.article .overlap-group5 {
+  height: 3087px;
+  margin-left: 4px;
+  margin-top: 4px;
+  position: relative;
+  width: 1728px;
+}
+
+.article .overlap-group4 {
+  height: 23px;
+  left: 448px;
+  position: absolute;
+  top: 51px;
+  width: 342px;
+}
+
+.article .breadcrumb-nav-bar {
+  display: flex;
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 332px;
+}
+
+.article .akar-iconsarrow-right {
+  height: 20px;
+  margin-left: 8px;
+  margin-top: 3px;
+  width: 20px;
+}
+
+.article .poradna {
+  height: 20px;
+  margin-left: 8px;
+  text-align: center;
+  width: 78px;
+}
+
+.article .henrys-coated {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 8px;
+  text-align: center;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.article .akar-iconsarrow-right-1 {
+  height: 20px;
+  left: 322px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.article .struny-s-ochrannm-potahem {
+  left: 812px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  white-space: nowrap;
+  width: 250px;
+}
+
+.article .struny-s-ochrannm-potahem-1 {
+  left: 600px;
+  letter-spacing: 0;
+  line-height: 53px;
+  position: absolute;
+  text-align: center;
+  top: 125px;
+  white-space: nowrap;
+}
+
+.article .znte-henrys-string {
+  left: 304px;
+  letter-spacing: 0;
+  line-height: 19.0px;
+  position: absolute;
+  top: 268px;
+  width: 1048px;
+}
+
+.article .phospohor_bronze-1 {
+  height: 140px;
+  left: 1526px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 136px;
+}
+
+.article .henrys-acoustic-phosphor {
+  left: 1518px;
+  top: 198px;
+}
+
+.article .henrys-acoustic-bronze {
+  left: 1526px;
+  top: 569px;
+}
+
+.article .henrys-coated-electric-nickel {
+  left: 1526px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 933px;
+  white-space: nowrap;
+}
+
+.article .henrys-coated-nickel-bass {
+  left: 1526px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 1297px;
+  white-space: nowrap;
+}
+
+.article .overlap-group1 {
+  height: 172px;
+  left: 1523px;
+  position: absolute;
+  top: 1538px;
+  width: 146px;
+}
+
+.article .henrys-coated-nickel-bass-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 132px;
+  white-space: nowrap;
+}
+
+.article .price {
+  left: 56px;
+  top: 148px;
+}
+
+.article .ukulele-1 {
+  height: 140px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.article .price-1 {
+  left: 1576px;
+  top: 228px;
+}
+
+.article .price-2 {
+  left: 1579px;
+  top: 593px;
+}
+
+.article .price-3 {
+  left: 1579px;
+  top: 957px;
+}
+
+.article .price-4 {
+  left: 1579px;
+  top: 1321px;
+}
+
+.article .primary-button-icon {
+  align-items: center;
+  background-color: var(--neon-carrot);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  left: 1499px;
+  padding: 8px 16px;
+  position: absolute;
+  top: 273px;
+  width: fit-content;
+}
+
+.article .text {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .primary-button-icon-1 {
+  top: 652px;
+}
+
+.article .text-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .primary-button-icon-2 {
+  top: 1016px;
+}
+
+.article .text-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .primary-button-icon-3 {
+  top: 1380px;
+}
+
+.article .text-3 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .primary-button-icon-4 {
+  top: 1745px;
+}
+
+.article .text-4 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .x11-52-1_coated_brozne-1 {
+  height: 140px;
+  left: 1525px;
+  object-fit: cover;
+  position: absolute;
+  top: 413px;
+  width: 136px;
+}
+
+.article .electric-1 {
+  height: 140px;
+  left: 1523px;
+  object-fit: cover;
+  position: absolute;
+  top: 777px;
+  width: 136px;
+}
+
+.article .bass-1 {
+  height: 140px;
+  left: 1522px;
+  object-fit: cover;
+  position: absolute;
+  top: 1141px;
+  width: 133px;
+}
+
+.article .henrys-strings-coated {
+  left: 795px;
+  letter-spacing: 0;
+  line-height: 35.7px;
+  position: absolute;
+  text-align: center;
+  top: 776px;
+  white-space: nowrap;
+}
+
+.article .v-srii-coated-najde {
+  left: 311px;
+  letter-spacing: 0;
+  line-height: 19.0px;
+  position: absolute;
+  top: 864px;
+  width: 968px;
+}
+
+.article .overlap-group3 {
+  height: 754px;
+  left: 315px;
+  position: absolute;
+  top: 1035px;
+  width: 1015px;
+}
+
+.article .bronze-coated-bronzo {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19.0px;
+  position: absolute;
+  top: 0;
+  width: 1015px;
+}
+
+.article .clanek_img1-1 {
+  height: 500px;
+  left: 158px;
+  object-fit: cover;
+  position: absolute;
+  top: 254px;
+  width: 782px;
+}
+
+.article .basov-struny-coated {
+  left: 304px;
+  letter-spacing: 0;
+  line-height: 19.0px;
+  position: absolute;
+  top: 1874px;
+  width: 1108px;
+}
+
+.article .clanek_img-1 {
+  height: 346px;
+  left: 567px;
+  object-fit: cover;
+  position: absolute;
+  top: 403px;
+  width: 593px;
+}
+
+.article .overlap-group2 {
+  height: 3087px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.article .vector-45 {
+  height: 2480px;
+  left: 1474px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.article .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 627px;
+  justify-content: flex-start;
+  left: 0;
+  min-width: 1728px;
+  position: absolute;
+  top: 2460px;
+  width: auto;
+}
+
+.article .flex-col {
+  background-image: url(../img/vector-27.png);
+  background-size: 100% 100%;
+  flex-direction: column;
+  gap: 63px;
+  margin-top: 0;
+  min-height: 627px;
+  padding: 30.0px 300px;
+  width: 1724px;
+}
+
+.article .flex-row {
+  height: 176px;
+  margin-left: 4px;
+  margin-top: 295px;
+  min-width: 1020px;
+}
+
+.article .group {
+  align-self: flex-end;
+  height: 157px;
+  margin-bottom: 0;
+  width: 51px;
+}
+
+.article .frame-358 {
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 246px;
+  width: fit-content;
+}
+
+.article .poradna-1 {
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.article .od-vs {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .frame-359 {
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 198px;
+  width: fit-content;
+}
+
+.article .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .struny {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .lifestyle {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .gear {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .flex-col-1 {
+  gap: 57px;
+  margin-left: 190px;
+  min-height: 168px;
+  width: 165px;
+}
+
+.article .socials {
+  align-items: center;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  min-width: 143px;
+}
+
+.article .social-icon {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.article .text-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  position: relative;
+  width: 165px;
+}
+
+.article .button-base {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.article .text-6 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.article .flex-col-2 {
+  gap: 7px;
+  min-height: 33px;
+  width: 1120px;
+}
+
+.article .vector-53 {
+  height: 1px;
+  object-fit: cover;
+  width: 1120px;
+}
+
+.article .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 724px;
+  height: 25px;
+  min-width: 1082px;
+}
+
+.article .copyright {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 111px;
+  white-space: nowrap;
+}
+
+.article .frame-380 {
+  align-self: flex-end;
+  gap: 37px;
+  width: fit-content;
+}
+
+.article .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.article .flex-col-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+
+.article .frame {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.article .henrys-acoustic {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.article .poradna-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.article .price-5 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.article .primary-button-icon-5 {
+  align-items: center;
+  background-color: var(--neon-carrot);
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  left: 1502px;
+  padding: 8px 16px;
+  position: absolute;
+  width: fit-content;
+}

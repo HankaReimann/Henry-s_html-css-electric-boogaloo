@@ -1,0 +1,384 @@
+/* screen - article-mobile */
+
+.article-mobile {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3012px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.article-mobile .group-23 {
+  align-self: flex-end;
+  height: 583px;
+  margin-right: -4316.43px;
+  margin-top: -9764px;
+  width: 522px;
+}
+
+.article-mobile .overlap-group1 {
+  height: 368px;
+  margin-top: 9181px;
+  position: relative;
+  width: 428px;
+}
+
+.article-mobile .menu-phone {
+  align-items: center;
+  background-color: var(--black-2);
+  display: flex;
+  height: 72px;
+  left: 0;
+  padding: 0 21px;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.article-mobile .logo {
+  height: 48px;
+  width: 68px;
+}
+
+.article-mobile .icon-search {
+  height: 36px;
+  margin-left: 218px;
+  margin-top: 4.0px;
+  width: 36px;
+}
+
+.article-mobile .group-247 {
+  height: 23px;
+  margin-left: 27px;
+  width: 36px;
+}
+
+.article-mobile .vector {
+  height: 298px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 428px;
+}
+
+.article-mobile .vector-1 {
+  height: 276px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 428px;
+}
+
+.article-mobile .deska_mesice {
+  height: 180px;
+  left: 133px;
+  position: absolute;
+  top: 100px;
+  width: 180px;
+}
+
+.article-mobile .group-24 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 276px;
+}
+
+.article-mobile .overlap-group {
+  height: 146px;
+  position: relative;
+  width: 272px;
+}
+
+.article-mobile .vector-20 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 54px;
+  width: 25px;
+}
+
+.article-mobile .heading {
+  height: 146px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 145.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.article-mobile .heading-1 {
+  left: 68px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 78px;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.article-mobile .vector-19 {
+  height: 3px;
+  left: 2px;
+  position: absolute;
+  top: 92px;
+  width: 63px;
+}
+
+.article-mobile .breadcrumb-nav-bar {
+  display: flex;
+  height: 23px;
+  margin-left: 18.0px;
+  margin-top: 56px;
+  width: 332px;
+}
+
+.article-mobile .akar-iconsarrow-right {
+  height: 20px;
+  margin-left: 8px;
+  margin-top: 3px;
+  width: 20px;
+}
+
+.article-mobile .poradna {
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 8px;
+  text-align: center;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.article-mobile .henrys-coated {
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 8px;
+  text-align: center;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.article-mobile .struny-s-ochrannm-potahem {
+  letter-spacing: 0;
+  line-height: 53px;
+  margin-left: 6.0px;
+  margin-top: 35px;
+  min-width: 300px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.article-mobile .znte-henrys-string {
+  letter-spacing: 0;
+  line-height: 19.0px;
+  margin-left: 42.0px;
+  margin-top: 19px;
+  min-height: 213px;
+  width: 328px;
+}
+
+.article-mobile .clanek_img-2 {
+  height: 240px;
+  margin-left: 7.0px;
+  margin-top: 9px;
+  object-fit: cover;
+  width: 377px;
+}
+
+.article-mobile .henrys-strings-coated {
+  letter-spacing: 0;
+  line-height: 35.7px;
+  margin-left: 21.0px;
+  margin-top: 77px;
+  min-height: 36px;
+  min-width: 231px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.article-mobile .v-srii-coated-najde {
+  letter-spacing: 0;
+  line-height: 19.0px;
+  margin-right: 12.0px;
+  margin-top: 72px;
+  min-height: 113px;
+  width: 294px;
+}
+
+.article-mobile .clanek_img1-2 {
+  height: 320px;
+  margin-right: 1.0px;
+  margin-top: 30px;
+  object-fit: cover;
+  width: 379px;
+}
+
+.article-mobile .overlap-group2 {
+  height: 1299px;
+  margin-top: 49px;
+  position: relative;
+  width: 428px;
+}
+
+.article-mobile .basov-struny-coated {
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 19.0px;
+  position: absolute;
+  top: 0;
+  width: 340px;
+}
+
+.article-mobile .footer-phone {
+  align-items: flex-start;
+  background-image: url(../img/vector-1.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 552px;
+  padding: 22.0px 19px;
+  position: absolute;
+  top: 747px;
+  width: 428px;
+}
+
+.article-mobile .frame-378 {
+  align-items: flex-start;
+  display: flex;
+  gap: 88px;
+  margin-left: 29.5px;
+  margin-top: 138px;
+  position: relative;
+  width: fit-content;
+}
+
+.article-mobile .frame-35 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.article-mobile .poradna-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article-mobile .od-vs {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article-mobile .nae-produkty {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article-mobile .struny {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article-mobile .lifestyle {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article-mobile .gear {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article-mobile .socials {
+  align-items: center;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  margin-left: 1px;
+  margin-top: 48px;
+  min-width: 143px;
+}
+
+.article-mobile .social-icon {
+  cursor: pointer;
+  height: 31px;
+  width: 31px;
+}
+
+.article-mobile .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 121px;
+  height: 24px;
+  margin-top: 40px;
+  min-width: 330px;
+}
+
+.article-mobile .vector-53 {
+  align-self: center;
+  height: 1px;
+  margin-right: 0.5px;
+  margin-top: 16px;
+  object-fit: cover;
+  width: 388px;
+}
+
+.article-mobile .frame-379 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  margin-right: 21.5px;
+  margin-top: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.article-mobile .text {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 202px;
+}
+
+.article-mobile .copyright {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
